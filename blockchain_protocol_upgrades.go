@@ -3,3 +3,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance smart contract compatibility
 // Integrate Chainlink VRF for randomness
+// Improve error handling in transaction flow
