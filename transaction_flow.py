@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Integrate IPFS for storage
 // Integrate IPFS for storage
+// Integrate zk-rollups for scaling
