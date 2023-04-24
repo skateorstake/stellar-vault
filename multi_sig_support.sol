@@ -1,3 +1,4 @@
 // Fix Oracle communication delay issues
 // Fix memory optimization issues in contracts
 // Implement rewards escrow system
+// Add support for Layer-2 solutions
