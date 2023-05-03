@@ -1,2 +1,3 @@
 // Integrate privacy-preserving mechanisms
 // Enhance contract initialization process
+// Add support for DeFi lending protocols
