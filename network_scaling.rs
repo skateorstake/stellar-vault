@@ -4,3 +4,4 @@
 // Integrate decentralized oracles for data feeds
 // Fix memory leak in Rust smart contract
 // Implement automated governance voting
+// Integrate IPFS for storage
