@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Improve API rate limiting
 // Optimize token minting flow
+// Add multi-sig wallet functionality
