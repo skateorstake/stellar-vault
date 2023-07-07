@@ -2,3 +2,4 @@
 // Enhance developer documentation
 // Fix errors in NFT minting logic
 // Improve staking pool reward management
+// Improve contract modularity
