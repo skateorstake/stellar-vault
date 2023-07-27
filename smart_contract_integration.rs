@@ -2,3 +2,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Add support for multiple consensus mechanisms
 // Optimize multi-chain interaction
+// Refactor governance proposal logic
