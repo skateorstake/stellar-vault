@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Fix interoperability issues with other blockchains
 // Improve contract interaction via APIs
+// Enhance contract event handling
