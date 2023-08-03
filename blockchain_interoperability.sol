@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Enhance off-chain data processing
 // Fix bugs in NFT metadata handling
+// Add support for batch transaction processing
