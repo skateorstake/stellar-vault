@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Optimize gas cost in function execution
 // Add native support for staking rewards
+// Improve smart contract logging
