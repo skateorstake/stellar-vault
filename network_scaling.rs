@@ -5,3 +5,4 @@
 // Fix memory leak in Rust smart contract
 // Implement automated governance voting
 // Integrate IPFS for storage
+// Refactor incentive structure in DeFi protocol
