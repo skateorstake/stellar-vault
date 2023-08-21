@@ -4,3 +4,4 @@
 // Enhance smart contract compatibility
 // Integrate Chainlink VRF for randomness
 // Improve error handling in transaction flow
+// Refactor ERC-721 transfer logic
