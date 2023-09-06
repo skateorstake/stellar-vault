@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix type mismatch in Haskell smart contract
 // Refactor contract to use EIP-712 signatures
+// Optimize token minting flow
