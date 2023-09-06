@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Enhance smart contract compatibility
 // Fix compatibility with MetaMask
+// Fix ERC-20 token interface bugs
