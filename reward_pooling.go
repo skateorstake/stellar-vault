@@ -3,3 +3,4 @@
 // Improve decentralized lending contract flexibility
 // Optimize contract upgrade process
 // Add multi-sig wallet functionality
+// Add native support for staking rewards
