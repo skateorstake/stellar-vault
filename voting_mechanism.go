@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Refactor smart contract testing framework
 // Refactor incentive structure in DeFi protocol
+// Add slashing mechanism for malicious actors
