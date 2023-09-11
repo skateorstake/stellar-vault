@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Bugfix: incorrect reward calculation
 // Add new RPC endpoint
+// Improve contract verification speed
