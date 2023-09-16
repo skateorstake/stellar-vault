@@ -1,3 +1,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance gas fee management
 // Optimize token withdrawal logic
+// Add support for multi-signature wallet contracts
