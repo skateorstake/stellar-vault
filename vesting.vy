@@ -2,3 +2,4 @@
 // Add non-fungible token (NFT) support
 // Fix compatibility issues with major wallets
 // Implement adaptive block size for Ethereum
+// Implement cross-chain bridge
