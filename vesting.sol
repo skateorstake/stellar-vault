@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Improve contract interaction via APIs
 // Enhance contract event handling
+// Integrate Chainlink VRF for randomness
