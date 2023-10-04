@@ -2,3 +2,4 @@
 // Integrate with multi-token standards
 // Refactor Ethereum gas price management
 // Fix vulnerability in decentralized finance protocols
+// Integrate IPFS for storage
