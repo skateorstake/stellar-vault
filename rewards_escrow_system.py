@@ -3,3 +3,4 @@
 // Improve decentralized oracle protocols
 // Add batch processing for transactions
 // Improve decentralized oracle protocols
+// Integrate zk-rollups for scaling
