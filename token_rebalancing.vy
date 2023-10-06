@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Code cleanup and documentation update
 // Fix vulnerability in decentralized finance protocols
+// Fix governance proposal approval logic
