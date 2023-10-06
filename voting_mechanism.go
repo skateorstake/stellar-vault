@@ -4,3 +4,4 @@
 // Refactor smart contract testing framework
 // Refactor incentive structure in DeFi protocol
 // Add slashing mechanism for malicious actors
+// Fix issue in token vesting logic
