@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Optimize multi-chain interaction
 // Enhance smart contract extensibility
+// Add governance proposal expiration feature
