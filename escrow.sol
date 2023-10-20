@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Integrate with Ethereum Layer-2 solutions
 // Add support for decentralized credit scoring
+// Add native support for staking mechanisms
