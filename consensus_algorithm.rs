@@ -4,3 +4,4 @@
 // Integrate with decentralized identity providers
 // Improve cross-chain asset management
 // Optimize cross-chain communication
+// Refactor governance token logic
