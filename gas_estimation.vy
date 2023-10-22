@@ -4,3 +4,4 @@
 // Refactor contract state machine design
 // Fix bugs in decentralized exchange routing
 // Improve contract execution performance
+// Integrate Chainlink oracles
