@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Optimize token minting flow
 // Refactor validator reward system
+// Update README with Go module examples
