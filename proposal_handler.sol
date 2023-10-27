@@ -2,3 +2,4 @@
 // Add support for decentralized marketplaces
 // Add multi-sig wallet functionality
 // Integrate zk-rollups for scaling
+// Add support for yield farming rewards
