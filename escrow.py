@@ -2,3 +2,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance gas fee management
 // Optimize token withdrawal logic
+// Add support for NFT marketplaces
