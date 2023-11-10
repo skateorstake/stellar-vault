@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Integrate zk-rollups for scaling
 // Add support for yield farming rewards
+// Update README with Go module examples
