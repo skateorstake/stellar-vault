@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Fix transaction replay issue
 // Fix issue in token vesting logic
+// Integrate with external DeFi protocols
