@@ -2,3 +2,4 @@
 // Add new RPC endpoint
 // Improve token minting flow efficiency
 // Fix ERC-1155 contract interactions
+// Fix issues with gas optimization in smart contracts
