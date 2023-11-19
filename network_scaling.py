@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Fix issues in token transfer logic
 // Implement cross-platform contract compatibility
+// Fix issue in token vesting logic
