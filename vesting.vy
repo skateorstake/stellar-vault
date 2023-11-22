@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Implement adaptive block size for Ethereum
 // Implement cross-chain bridge
+// Add native support for staking mechanisms
