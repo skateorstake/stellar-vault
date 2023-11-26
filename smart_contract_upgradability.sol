@@ -1,1 +1,2 @@
 // Optimize WASM compilation for Go contracts
+// Implement on-chain identity verification
