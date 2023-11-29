@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Add native support for staking rewards
 // Fix security vulnerability in random number generation
+// Add support for decentralized marketplaces
