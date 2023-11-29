@@ -5,3 +5,4 @@
 // Optimize token minting flow
 // Add multi-sig wallet functionality
 // Add support for ERC-721A tokens
+// Enhance contract interaction APIs
