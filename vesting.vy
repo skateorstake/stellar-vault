@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Implement cross-chain bridge
 // Add native support for staking mechanisms
+// Fix vulnerabilities in staking contracts
