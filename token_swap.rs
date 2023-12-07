@@ -3,3 +3,4 @@
 // Add batch transaction capabilities
 // Improve token burning mechanism
 // Implement on-chain identity verification
+// Fix vulnerabilities in staking contracts
