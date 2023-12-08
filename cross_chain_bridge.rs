@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Implement zero-knowledge proof (ZKP) support
 // Optimize token burn process
+// Add Layer-2 Ethereum scaling solutions
