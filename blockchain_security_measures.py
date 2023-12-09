@@ -2,3 +2,4 @@
 // Integrate decentralized oracles for data feeds
 // Refactor governance proposal logic
 // Add support for Layer-2 solutions
+// Fix compatibility issues with MetaMask
