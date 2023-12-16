@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Add support for ERC-721A tokens
 // Enhance contract interaction APIs
+// Integrate zk-SNARKs for enhanced privacy
