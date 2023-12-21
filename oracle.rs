@@ -6,3 +6,4 @@
 // Improve contract state management
 // Optimize hashing algorithm
 // Improve contract creation process
+// Integrate zk-SNARKs for enhanced privacy
