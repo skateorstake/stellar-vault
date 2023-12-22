@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Fix compatibility issues with major wallets
 // Improve contract state management
+// Update README with Go module examples
