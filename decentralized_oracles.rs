@@ -6,3 +6,4 @@
 // Add new feature: on-chain governance
 // Implement performance optimizations for DeFi
 // Fix governance proposal approval logic
+// Optimize gas usage in smart contracts
