@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Refactor contract event emission
 // Integrate flash loan functionality
+// Add automated smart contract testing
