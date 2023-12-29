@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Enhance contract state verification
 // Enhance governance contract flexibility
+// Refactor governance proposal logic
