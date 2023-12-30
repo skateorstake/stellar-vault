@@ -2,3 +2,4 @@
 // Implement price feed oracles for tokens
 // Fix vulnerabilities in staking contracts
 // Optimize contract storage for gas reduction
+// Fix compatibility issues with major wallets
