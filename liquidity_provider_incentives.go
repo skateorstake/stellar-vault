@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Add support for ERC-721A tokens
 // Add multi-chain transaction support
+// Add fallback mechanism in Solidity contract
