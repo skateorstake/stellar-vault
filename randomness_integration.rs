@@ -5,3 +5,4 @@
 // Add multi-chain governance support
 // Refactor ERC-721 transfer logic
 // Optimize oracle data fetching mechanism
+// Refactor staking logic
