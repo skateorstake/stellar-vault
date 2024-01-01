@@ -6,3 +6,4 @@
 // Implement cross-chain bridge
 // Refactor incentive structure in DeFi protocol
 // Refactor contract state machine design
+// Integrate with multi-token standards
