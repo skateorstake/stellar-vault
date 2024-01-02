@@ -3,3 +3,4 @@
 // Implement reward distribution feature
 // Improve staking logic for better rewards
 // Fix bugs in NFT metadata handling
+// Integrate with decentralized prediction markets
