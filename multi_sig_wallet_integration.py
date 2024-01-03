@@ -2,3 +2,4 @@
 // Improve token minting flow efficiency
 // Integrate Chainlink oracles
 // Improve contract state management
+// Add support for ERC-721A tokens
