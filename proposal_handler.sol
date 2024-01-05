@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Add support for yield farming rewards
 // Update README with Go module examples
+// Add support for ERC-721A tokens
