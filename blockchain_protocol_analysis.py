@@ -3,3 +3,4 @@
 // Fix issues with cross-chain transaction finality
 // Add support for yield farming rewards
 // Optimize oracle data fetching mechanism
+// Improve staking and yield farming logic
