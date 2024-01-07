@@ -6,3 +6,4 @@
 // Refactor ERC-721 transfer logic
 // Optimize oracle data fetching mechanism
 // Refactor staking logic
+// Add multi-sig wallet functionality
