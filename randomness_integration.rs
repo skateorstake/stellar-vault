@@ -7,3 +7,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor staking logic
 // Add multi-sig wallet functionality
+// Integrate privacy-preserving mechanisms
