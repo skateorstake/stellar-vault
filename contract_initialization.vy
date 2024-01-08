@@ -7,3 +7,4 @@
 // Refactor multi-asset token management
 // Update smart contract tests
 // Optimize cross-chain communication
+// Integrate zk-SNARKs for enhanced privacy
