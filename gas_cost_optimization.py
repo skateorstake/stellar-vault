@@ -3,3 +3,4 @@
 // Refactor decentralized storage system
 // Fix governance proposal approval logic
 // Improve contract creation process
+// Bugfix: incorrect reward calculation
