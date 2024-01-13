@@ -2,3 +2,4 @@
 // Fix issues with gas optimization in smart contracts
 // Enhance smart contract upgradeability
 // Integrate zk-rollups for scaling
+// Add support for decentralized insurance protocols
