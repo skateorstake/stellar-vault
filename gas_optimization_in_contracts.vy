@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Fix compatibility with MetaMask
 // Fix oracle data delays in decentralized apps
+// Improve staking and yield farming logic
