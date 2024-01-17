@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Add native support for staking mechanisms
 // Implement delegation pattern
+// Add support for multiple consensus mechanisms
