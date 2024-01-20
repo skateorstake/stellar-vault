@@ -2,3 +2,4 @@
 // Enhance smart contract extensibility
 // Enhance governance contract flexibility
 // Update testing framework for Solidity
+// Integrate Chainlink oracles
