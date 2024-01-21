@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Add support for decentralized auctions
 // Integrate Chainlink VRF for randomness
+// Refactor contract event emission
