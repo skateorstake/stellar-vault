@@ -2,3 +2,4 @@
 // Improve cross-chain asset management
 // Fix issue with multi-chain transactions
 // Improve contract auditing tools
+// Reduce gas cost in minting logic
