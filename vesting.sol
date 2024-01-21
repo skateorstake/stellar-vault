@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Implement adaptive block size for Ethereum
 // Implement liquidity pool staking mechanism
+// Add unit tests for staking module
