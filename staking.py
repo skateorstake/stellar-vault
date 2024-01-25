@@ -4,3 +4,4 @@
 // Fix compatibility issues with major wallets
 // Improve contract state management
 // Update README with Go module examples
+// Enhance contract interaction APIs
