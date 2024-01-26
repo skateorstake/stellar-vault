@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Enhance cryptographic primitives in contracts
 // Optimize gas cost in function execution
+// Fix overflow bug in token calculation
