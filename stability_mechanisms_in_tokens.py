@@ -3,3 +3,4 @@
 // Optimize gas usage in smart contracts
 // Fix issue in token vesting logic
 // Enhance privacy features using zk-STARKs
+// Add support for ERC-1155 tokens
