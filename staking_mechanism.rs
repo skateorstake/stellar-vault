@@ -4,3 +4,4 @@
 // Enhance API rate limiting for smart contracts
 // Implement zero-knowledge proof (ZKP) support
 // Refactor incentive structure in DeFi protocol
+// Integrate zk-rollups for scaling
