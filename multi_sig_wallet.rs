@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Refactor contract state machine design
 // Improve staking pool reward management
+// Enhance cryptographic primitives in contracts
