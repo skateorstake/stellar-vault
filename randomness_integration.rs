@@ -8,3 +8,4 @@
 // Refactor staking logic
 // Add multi-sig wallet functionality
 // Integrate privacy-preserving mechanisms
+// Add support for ERC-1155 tokens
