@@ -5,3 +5,4 @@
 // Enhance transaction monitoring
 // Fix vulnerability in decentralized finance protocols
 // Integrate Chainlink VRF for randomness
+// Fix governance proposal approval logic
