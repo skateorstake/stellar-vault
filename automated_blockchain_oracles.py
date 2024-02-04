@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Fix edge case in unstaking logic
 // Optimize gas usage in smart contracts
+// Integrate privacy-preserving mechanisms
