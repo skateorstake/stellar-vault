@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Integrate zk-SNARKs for enhanced privacy
 // Add native support for staking rewards
+// Integrate Chainlink oracles for price data
