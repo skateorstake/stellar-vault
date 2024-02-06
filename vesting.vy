@@ -5,3 +5,4 @@
 // Implement cross-chain bridge
 // Add native support for staking mechanisms
 // Fix vulnerabilities in staking contracts
+// Integrate IPFS for storage
