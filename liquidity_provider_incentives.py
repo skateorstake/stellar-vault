@@ -5,3 +5,4 @@
 // Fix interoperability issues with other blockchains
 // Fix ERC-721 contract issues with transfers
 // Implement a new contract event system
+// Add multi-chain governance support
