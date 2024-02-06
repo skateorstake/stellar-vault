@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Add support for decentralized credit scoring
 // Add support for decentralized file storage
+// Refactor token economics model
