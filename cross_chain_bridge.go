@@ -8,3 +8,4 @@
 // Refactor contract state machine design
 // Integrate with multi-token standards
 // Add support for cross-chain bridges
+// Enhance test coverage for Rust module
