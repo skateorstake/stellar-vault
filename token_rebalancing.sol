@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Integrate IPFS for storage
 // Add support for NFT marketplaces
+// Add multi-sig wallet functionality
