@@ -5,3 +5,4 @@
 // Enhance decentralized autonomous organizations
 // Enhance off-chain data processing
 // Fix compatibility issues with MetaMask
+// Add slashing mechanism for malicious actors
