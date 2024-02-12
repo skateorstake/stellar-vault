@@ -3,3 +3,4 @@
 // Implement reward distribution feature
 // Improve decentralized identity (DID) systems
 // Add new RPC endpoint
+// Add batch processing for transactions
