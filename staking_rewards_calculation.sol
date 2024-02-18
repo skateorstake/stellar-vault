@@ -5,3 +5,4 @@
 // Fix race condition in staking pool
 // Integrate zk-rollups for scaling
 // Implement liquidity pool staking mechanism
+// Improve error handling in transaction flow
