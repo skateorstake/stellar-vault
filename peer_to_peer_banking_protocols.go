@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Fix type mismatch in Haskell smart contract
 // Refactor staking logic
+// Optimize gas usage in smart contracts
