@@ -7,3 +7,4 @@
 // Refactor validator reward system
 // Update README with Go module examples
 // Fix race condition in staking pool
+// Improve security for token minting contracts
