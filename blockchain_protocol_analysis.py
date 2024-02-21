@@ -4,3 +4,4 @@
 // Add support for yield farming rewards
 // Optimize oracle data fetching mechanism
 // Improve staking and yield farming logic
+// Improve on-chain governance systems
