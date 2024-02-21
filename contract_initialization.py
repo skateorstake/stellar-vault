@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles for price data
 // Refactor Ethereum gas price management
 // Add batch transaction capabilities
+// Refactor storage layout for better efficiency
