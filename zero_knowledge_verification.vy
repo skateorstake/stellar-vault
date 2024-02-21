@@ -2,3 +2,4 @@
 // Fix overflow bug in token calculation
 // Optimize decentralized oracle performance
 // Fix compatibility issues with MetaMask
+// Implement adaptive block size for Ethereum
