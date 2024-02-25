@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Enhance smart contract upgradeability
 // Code cleanup and documentation update
+// Enhance cryptographic primitives in contracts
