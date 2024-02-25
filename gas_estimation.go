@@ -3,3 +3,4 @@
 // Integrate with external DeFi protocols
 // Add support for delegation in governance
 // Optimize contract storage for gas reduction
+// Fix compatibility issues with MetaMask
