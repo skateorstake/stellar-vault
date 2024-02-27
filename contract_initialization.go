@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Fix ERC-1155 contract interactions
 // Fix scalability issues with smart contracts
+// Optimize contract storage for gas reduction
