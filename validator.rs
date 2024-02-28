@@ -6,3 +6,4 @@
 // Improve oracle data validation mechanisms
 // Reduce gas cost in minting logic
 // Implement on-chain identity verification
+// Optimize token burn process
