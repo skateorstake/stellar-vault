@@ -4,3 +4,4 @@
 // Improve scalability for smart contract platforms
 // Integrate flash loan functionality
 // Implement liquidity pool staking mechanism
+// Integrate Chainlink VRF for randomness
