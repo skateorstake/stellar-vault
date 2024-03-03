@@ -2,3 +2,4 @@
 // Add decentralized contract upgradeability
 // Add support for batch transaction processing
 // Add unit tests for staking module
+// Add automated contract testing tools
