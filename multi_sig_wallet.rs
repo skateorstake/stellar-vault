@@ -5,3 +5,4 @@
 // Refactor contract state machine design
 // Improve staking pool reward management
 // Enhance cryptographic primitives in contracts
+// Implement delegation pattern
