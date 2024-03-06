@@ -6,3 +6,4 @@
 // Add native support for staking mechanisms
 // Implement delegation pattern
 // Add support for multiple consensus mechanisms
+// Optimize Oracle-based data fetching
