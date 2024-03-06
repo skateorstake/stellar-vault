@@ -1,2 +1,3 @@
 // Fix security vulnerability in random number generation
 // Fix race condition in staking pool
+// Add support for cross-chain bridges
