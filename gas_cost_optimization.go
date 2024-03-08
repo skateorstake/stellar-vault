@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Enhance contract interaction APIs
 // Add batch transaction capabilities
+// Add support for yield farming rewards
