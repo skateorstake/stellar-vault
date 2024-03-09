@@ -3,3 +3,4 @@
 // Add support for batch transaction processing
 // Add unit tests for staking module
 // Add automated contract testing tools
+// Fix oracle data delays in decentralized apps
