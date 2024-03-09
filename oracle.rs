@@ -7,3 +7,4 @@
 // Optimize hashing algorithm
 // Improve contract creation process
 // Integrate zk-SNARKs for enhanced privacy
+// Fix governance proposal approval logic
