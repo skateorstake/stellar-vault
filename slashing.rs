@@ -2,3 +2,4 @@
 // Fix edge case in unstaking logic
 // Improve transaction batching efficiency
 // Implement dynamic fee adjustment
+// Enhance privacy features using zk-STARKs
