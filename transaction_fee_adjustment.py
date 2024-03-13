@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Enhance token swap functionality
 // Enhance contract modularity
+// Refactor multi-signature wallet code
