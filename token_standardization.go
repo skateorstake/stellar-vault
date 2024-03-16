@@ -2,3 +2,4 @@
 // Add support for yield farming rewards
 // Fix issues in token transfer logic
 // Integrate chain-agnostic oracles
+// Fix compatibility issues with MetaMask
