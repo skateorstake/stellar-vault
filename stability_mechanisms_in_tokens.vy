@@ -2,3 +2,4 @@
 // Fix contract reentrancy issues
 // Integrate Chainlink VRF for randomness
 // Add fallback mechanism in Solidity contract
+// Enhance privacy features using zk-STARKs
