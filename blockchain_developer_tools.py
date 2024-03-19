@@ -3,3 +3,4 @@
 // Improve transaction batching efficiency
 // Implement contract function batching
 // Refactor governance token logic
+// Add governance proposal expiration feature
