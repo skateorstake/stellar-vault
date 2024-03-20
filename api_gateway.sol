@@ -3,3 +3,4 @@
 // Fix ERC-1155 contract interactions
 // Fix deserialization bug in Haskell code
 // Integrate with decentralized storage systems
+// Enhance logging for better debugging
