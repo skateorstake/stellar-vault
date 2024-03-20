@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Integrate Chainlink VRF for randomness
 // Integrate with multi-token standards
+// Add support for ERC-721A tokens
