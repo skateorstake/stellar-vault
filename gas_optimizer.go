@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Enhance gas fee management
 // Optimize Oracle-based data fetching
+// Bugfix: incorrect reward calculation
