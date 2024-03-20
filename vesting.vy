@@ -7,3 +7,4 @@
 // Fix vulnerabilities in staking contracts
 // Integrate IPFS for storage
 // Optimize token minting flow
+// Fix governance proposal approval logic
