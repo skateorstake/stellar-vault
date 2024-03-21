@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Optimize token minting flow
 // Fix governance proposal approval logic
+// Add support for batch transaction processing
