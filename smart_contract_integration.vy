@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Add batch processing for transactions
 // Improve transaction batching efficiency
+// Add support for ERC-721A tokens
