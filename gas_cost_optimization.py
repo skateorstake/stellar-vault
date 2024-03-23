@@ -5,3 +5,4 @@
 // Improve contract creation process
 // Bugfix: incorrect reward calculation
 // Add batch processing for transactions
+// Integrate multi-chain liquidity pools
