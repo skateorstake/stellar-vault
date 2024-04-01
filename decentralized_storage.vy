@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Refactor oracle interaction logic
 // Fix issues in token transfer logic
+// Enhance privacy features using zk-STARKs
