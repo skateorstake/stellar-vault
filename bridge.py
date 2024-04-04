@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Add support for decentralized file storage
 // Integrate chain-agnostic oracles
+// Add support for ERC-721A tokens
