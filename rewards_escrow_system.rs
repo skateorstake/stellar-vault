@@ -6,3 +6,4 @@
 // Improve decentralized lending contract flexibility
 // Integrate IPFS for storage
 // Update testing framework for Solidity
+// Implement on-chain identity verification
