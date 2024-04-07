@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Enhance token swap functionality
 // Add dynamic contract fees
+// Add non-fungible token (NFT) support
