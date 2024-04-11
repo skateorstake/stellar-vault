@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Add support for fractional token ownership
 // Improve cross-chain asset management
+// Implement emergency stop mechanism
