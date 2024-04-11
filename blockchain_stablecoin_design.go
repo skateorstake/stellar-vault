@@ -7,3 +7,4 @@
 // Optimize state channels for faster transactions
 // Improve security in decentralized applications
 // Improve contract execution performance
+// Implement zero-knowledge proof (ZKP) support
