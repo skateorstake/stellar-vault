@@ -4,3 +4,4 @@
 // Enhance smart contract state changes monitoring
 // Refactor storage layout for better efficiency
 // Refactor Ethereum gas price management
+// Add support for NFT marketplaces
