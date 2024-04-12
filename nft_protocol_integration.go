@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Add dynamic contract fees
 // Improve contract modularity
+// Integrate decentralized oracles for data feeds
