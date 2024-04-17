@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Fix ERC-1155 contract interactions
 // Add non-fungible token (NFT) support
+// Refactor incentive structure in DeFi protocol
