@@ -2,3 +2,4 @@
 // Fix issues with contract finalization
 // Fix governance proposal approval logic
 // Fix transaction replay issue
+// Refactor storage layout for better efficiency
