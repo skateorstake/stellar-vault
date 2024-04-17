@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Fix issue in token vesting logic
 // Implement performance optimizations for DeFi
+// Fix issues with cross-chain transaction finality
