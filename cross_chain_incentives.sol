@@ -4,3 +4,4 @@
 // Add dynamic contract upgrade mechanisms
 // Implement contract function batching
 // Implement dynamic fee adjustment
+// Fix compatibility issues with MetaMask
