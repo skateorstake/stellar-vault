@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix governance proposal approval logic
 // Optimize contract upgrade process
+// Update testing framework for Solidity
