@@ -3,3 +3,4 @@
 // Optimize token withdrawal logic
 // Integrate zk-rollups for scaling
 // Add batch transaction capabilities
+// Integrate zk-SNARKs for enhanced privacy
