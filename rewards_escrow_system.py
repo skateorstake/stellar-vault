@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Enhance smart contract audit tools
 // Add automated contract testing tools
+// Add non-fungible token (NFT) support
