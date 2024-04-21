@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Add support for NFT marketplaces
 // Add multi-sig wallet functionality
+// Add support for ERC-1155 tokens
