@@ -3,3 +3,4 @@
 // Optimize state channels for faster transactions
 // Add native support for staking mechanisms
 // Refactor staking logic
+// Fix bugs in NFT metadata handling
