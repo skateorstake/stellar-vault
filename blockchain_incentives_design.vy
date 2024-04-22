@@ -5,3 +5,4 @@
 // Improve ERC-721 token metadata functionality
 // Fix issues with cross-chain transaction finality
 // Implement adaptive block size for Ethereum
+// Implement on-chain identity verification
