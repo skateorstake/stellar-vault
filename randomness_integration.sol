@@ -3,3 +3,4 @@
 // Refactor oracle interaction logic
 // Enhance cryptographic primitives in contracts
 // Add native support for staking rewards
+// Add batch processing for transactions
