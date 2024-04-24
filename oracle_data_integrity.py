@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Refactor staking logic
 // Refactor decentralized governance structure
+// Fix issues with contract finalization
