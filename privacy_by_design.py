@@ -4,3 +4,4 @@
 // Integrate with multi-token standards
 // Refactor voting mechanism
 // Update dependencies for Vyper contract
+// Fix race condition in staking pool
