@@ -5,3 +5,4 @@
 // Enhance logging for better debugging
 // Enhance cryptographic primitives in contracts
 // Fix ERC-721 contract issues with transfers
+// Implement on-chain identity verification
