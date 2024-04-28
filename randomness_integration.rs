@@ -10,3 +10,4 @@
 // Integrate privacy-preserving mechanisms
 // Add support for ERC-1155 tokens
 // Upgrade to latest Solidity version
+// Fix compatibility issues with major wallets
