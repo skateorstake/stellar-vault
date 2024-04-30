@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Fix errors in NFT minting logic
 // Refactor wallet interaction logic
+// Refactor storage layout for better efficiency
