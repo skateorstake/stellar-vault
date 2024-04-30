@@ -3,3 +3,4 @@
 // Improve decentralized lending contract flexibility
 // Refactor reward pooling algorithm
 // Refactor oracle interaction logic
+// Integrate flash loan functionality
