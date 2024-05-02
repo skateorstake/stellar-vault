@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Add fallback mechanism in Solidity contract
 // Add new RPC endpoint
+// Fix issues with gas optimization in smart contracts
