@@ -6,3 +6,4 @@
 // Bugfix: incorrect reward calculation
 // Add batch processing for transactions
 // Integrate multi-chain liquidity pools
+// Refactor cross-chain communication layer
