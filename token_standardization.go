@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Integrate chain-agnostic oracles
 // Fix compatibility issues with MetaMask
+// Refactor cross-chain communication layer
