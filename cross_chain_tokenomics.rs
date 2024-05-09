@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Fix contract reentrancy issues
 // Add support for cross-chain bridges
+// Refactor wallet interaction logic
