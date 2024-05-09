@@ -5,3 +5,4 @@
 // Implement contract function batching
 // Implement dynamic fee adjustment
 // Fix compatibility issues with MetaMask
+// Implement on-chain identity verification
