@@ -2,3 +2,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix bugs in multi-token systems
 // Improve staking pool reward management
+// Fix vulnerabilities in staking contracts
