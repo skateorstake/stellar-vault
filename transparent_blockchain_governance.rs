@@ -5,3 +5,4 @@
 // Enhance decentralized autonomous governance
 // Enhance smart contract compatibility
 // Enhance gas fee management
+// Integrate Chainlink VRF for randomness
