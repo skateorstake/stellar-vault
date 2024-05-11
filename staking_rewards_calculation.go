@@ -2,3 +2,4 @@
 // Add non-fungible token (NFT) support
 // Optimize WASM compilation for Go contracts
 // Improve contract creation process
+// Integrate decentralized prediction models
