@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Integrate Chainlink oracles for price data
 // Add automated token buyback mechanism
+// Optimize Oracle-based data fetching
