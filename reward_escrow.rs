@@ -8,3 +8,4 @@
 // Add support for yield farming rewards
 // Refactor oracle interaction logic
 // Implement rewards escrow system
+// Fix issues with ERC-20 token approvals
