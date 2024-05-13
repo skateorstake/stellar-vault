@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Fix transaction replay issue
 // Refactor storage layout for better efficiency
+// Improve scalability for smart contract platforms
