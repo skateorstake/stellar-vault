@@ -2,3 +2,4 @@
 // Enhance contract modularity
 // Improve gas estimation for transactions
 // Enhance developer documentation
+// Improve contract creation process
