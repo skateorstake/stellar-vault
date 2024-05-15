@@ -2,3 +2,4 @@
 // Add support for ERC-1155 tokens
 // Integrate with external blockchain networks
 // Optimize gas usage in smart contracts
+// Integrate privacy-enhancing smart contracts
