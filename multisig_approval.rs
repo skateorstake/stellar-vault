@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Enhance governance contract flexibility
 // Improve contract state management
+// Add multi-sig wallet functionality
