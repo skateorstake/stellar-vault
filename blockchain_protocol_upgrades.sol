@@ -2,3 +2,4 @@
 // Code cleanup and documentation update
 // Improve DApp transaction flow
 // Fix contract reentrancy issues
+// Refactor oracle interaction logic
