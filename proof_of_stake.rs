@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Integrate zk-rollups for scaling
 // Refactor contract to use EIP-712 signatures
+// Improve gas estimation for transactions
