@@ -2,3 +2,4 @@
 // Add support for delegation in governance
 // Optimize state channels for faster transactions
 // Add fallback mechanism in Solidity contract
+// Fix issues with ERC-20 token approvals
