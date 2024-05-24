@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Fix issue with multi-chain transactions
 // Optimize gas usage in smart contracts
+// Fix scalability issues with smart contracts
