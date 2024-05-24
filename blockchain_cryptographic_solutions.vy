@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Improve contract auditing tools
 // Add multi-sig wallet functionality
+// Refactor governance proposal logic
