@@ -4,3 +4,4 @@
 // Refactor decentralized storage system
 // Add multi-chain transaction support
 // Enhance contract interaction APIs
+// Refactor oracle interaction logic
