@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Enhance contract state verification
 // Add support for ERC-1155 tokens
+// Add multi-chain transaction support
