@@ -4,3 +4,4 @@
 // Integrate with multi-token standards
 // Integrate IPFS for storage
 // Refactor staking logic
+// Improve cross-chain asset management
