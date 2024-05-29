@@ -2,3 +2,4 @@
 // Fix interoperability issues with other blockchains
 // Implement liquidity pool staking mechanism
 // Optimize hashing algorithm
+// Fix bugs in decentralized exchange routing
