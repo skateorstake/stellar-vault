@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Optimize gas cost in function execution
 // Fix overflow bug in token calculation
+// Fix issues with cross-chain transaction finality
