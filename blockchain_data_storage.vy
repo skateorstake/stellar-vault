@@ -6,3 +6,4 @@
 // Improve scalability for smart contract platforms
 // Add support for cross-chain bridges
 // Fix token transfer approval issues
+// Refactor contract to use EIP-712 signatures
