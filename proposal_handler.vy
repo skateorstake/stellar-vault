@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Add support for decentralized insurance protocols
 // Implement liquidity pool staking mechanism
+// Refactor governance token logic
