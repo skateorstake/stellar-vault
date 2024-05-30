@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Fix ERC-20 token interface bugs
 // Refactor contract to use EIP-712 signatures
+// Add support for yield farming rewards
