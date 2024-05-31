@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Add support for NFT marketplaces
 // Optimize decentralized oracle performance
+// Add new feature: on-chain governance
