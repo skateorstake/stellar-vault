@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Implement zero-knowledge proof (ZKP) support
 // Optimize hashing algorithm
+// Reduce gas cost in minting logic
