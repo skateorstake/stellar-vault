@@ -2,3 +2,4 @@
 // Implement decentralized arbitration in contracts
 // Fix issue with multi-chain transactions
 // Fix vulnerability in decentralized finance protocols
+// Fix ERC-721 contract issues with transfers
