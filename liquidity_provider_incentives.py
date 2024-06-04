@@ -6,3 +6,4 @@
 // Fix ERC-721 contract issues with transfers
 // Implement a new contract event system
 // Add multi-chain governance support
+// Refactor contract to use EIP-712 signatures
