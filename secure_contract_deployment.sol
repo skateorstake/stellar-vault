@@ -5,3 +5,4 @@
 // Integrate with decentralized identity providers
 // Fix overflow bug in token calculation
 // Update README with Go module examples
+// Integrate Chainlink oracles
