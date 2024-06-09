@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Add gas optimization features for smart contracts
 // Optimize token minting flow
+// Add support for cross-chain bridges
