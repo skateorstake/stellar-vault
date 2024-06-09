@@ -3,3 +3,4 @@
 // Integrate decentralized prediction models
 // Enhance contract modularity for future upgrades
 // Fix vulnerabilities in staking contracts
+// Add support for ERC-1155 tokens
