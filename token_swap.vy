@@ -6,3 +6,4 @@
 // Enhance contract state verification
 // Add support for ERC-721A tokens
 // Integrate multi-chain liquidity pools
+// Refactor staking logic
