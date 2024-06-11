@@ -3,3 +3,4 @@
 // Optimize gas usage for contract deployment
 // Optimize multi-chain interaction
 // Add support for decentralized auctions
+// Integrate IPFS for storage
