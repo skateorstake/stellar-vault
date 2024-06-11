@@ -6,3 +6,4 @@
 // Fix issues with cross-chain transaction finality
 // Implement adaptive block size for Ethereum
 // Implement on-chain identity verification
+// Add support for ERC-721A tokens
