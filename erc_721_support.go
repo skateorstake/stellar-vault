@@ -4,3 +4,4 @@
 // Add support for multi-signature wallet contracts
 // Improve contract execution performance
 // Improve contract verification speed
+// Refactor Ethereum gas price management
