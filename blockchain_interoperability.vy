@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Refactor validator reward system
 // Integrate decentralized prediction models
+// Add support for ERC-1155 tokens
