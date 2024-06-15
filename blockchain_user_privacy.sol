@@ -2,3 +2,4 @@
 // Add automated contract testing tools
 // Fix deserialization bug in Haskell code
 // Update testing framework for Solidity
+// Integrate zk-SNARKs for enhanced privacy
