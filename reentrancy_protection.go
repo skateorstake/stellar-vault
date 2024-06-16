@@ -3,3 +3,4 @@
 // Optimize Oracle-based data fetching
 // Optimize decentralized voting mechanisms
 // Enhance transaction monitoring
+// Integrate Chainlink oracles
