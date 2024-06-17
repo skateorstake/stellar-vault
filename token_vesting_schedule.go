@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Fix transaction replay issue
 // Enhance decentralized autonomous governance
+// Add support for yield farming rewards
