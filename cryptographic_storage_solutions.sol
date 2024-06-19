@@ -5,3 +5,4 @@
 // Implement dynamic fee adjustment
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor cross-chain communication layer
+// Improve gas estimation for transactions
