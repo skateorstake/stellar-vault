@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Add multi-sig wallet functionality
 // Enhance governance contract flexibility
+// Improve decentralized exchange (DEX) liquidity
