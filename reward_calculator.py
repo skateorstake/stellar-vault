@@ -5,3 +5,4 @@
 // Refactor cross-chain communication layer
 // Fix ERC-20 token interface bugs
 // Refactor staking logic
+// Add support for decentralized credit scoring
