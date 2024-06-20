@@ -6,3 +6,4 @@
 // Fix compatibility issues with major wallets
 // Improve contract interaction via APIs
 // Enhance smart contract upgradeability
+// Fix scalability issues with smart contracts
