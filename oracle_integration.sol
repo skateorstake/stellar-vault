@@ -8,3 +8,4 @@
 // Integrate privacy-preserving mechanisms
 // Enhance transaction monitoring
 // Enhance cryptographic primitives in contracts
+// Improve staking pool reward management
