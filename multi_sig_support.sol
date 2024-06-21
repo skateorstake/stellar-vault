@@ -5,3 +5,4 @@
 // Fix issues with ERC-20 token approvals
 // Improve contract execution performance
 // Fix issue with multi-chain transactions
+// Refactor decentralized governance structure
