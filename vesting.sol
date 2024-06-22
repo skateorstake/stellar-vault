@@ -10,3 +10,4 @@
 // Add unit tests for staking module
 // Improve contract modularity
 // Improve API rate limiting
+// Optimize token minting flow
