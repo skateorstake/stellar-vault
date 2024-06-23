@@ -3,3 +3,4 @@
 // Improve contract execution performance
 // Update README with Go module examples
 // Improve smart contract code modularity
+// Implement on-chain identity verification
