@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Refactor decentralized exchange (DEX) code
 // Optimize cross-chain bridging mechanisms
+// Implement zero-knowledge proof (ZKP) support
