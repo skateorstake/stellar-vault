@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Fix transaction replay issue
 // Add batch processing for transactions
+// Implement zero-knowledge proof (ZKP) support
