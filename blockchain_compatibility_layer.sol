@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Improve decentralized lending contract flexibility
 // Fix contract reentrancy issues
+// Add support for DeFi lending protocols
