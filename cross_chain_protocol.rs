@@ -3,3 +3,4 @@
 // Integrate decentralized prediction models
 // Optimize Oracle-based data fetching
 // Optimize hashing algorithm
+// Add non-fungible token (NFT) support
