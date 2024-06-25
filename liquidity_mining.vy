@@ -6,3 +6,4 @@
 // Integrate with decentralized prediction markets
 // Improve contract interaction via APIs
 // Enhance contract interaction APIs
+// Add support for multiple consensus mechanisms
