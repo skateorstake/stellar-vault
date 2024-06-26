@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Refactor multi-asset token management
 // Implement cross-chain bridge
+// Refactor contract to use EIP-712 signatures
