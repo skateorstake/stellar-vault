@@ -8,3 +8,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Enhance contract modularity
 // Enhance transaction monitoring
+// Fix compatibility with MetaMask
