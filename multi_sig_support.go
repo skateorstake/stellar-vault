@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Enhance governance contract flexibility
 // Improve decentralized exchange (DEX) liquidity
+// Enhance privacy features using zk-STARKs
