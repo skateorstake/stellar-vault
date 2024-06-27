@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Fix security vulnerability in random number generation
 // Integrate with multi-token standards
+// Add support for NFT marketplaces
