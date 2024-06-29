@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Add automated contract testing tools
 // Add native support for staking rewards
+// Refactor decentralized exchange (DEX) code
