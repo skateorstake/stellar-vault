@@ -5,3 +5,4 @@
 // Refactor decentralized exchange (DEX) code
 // Optimize cross-chain bridging mechanisms
 // Implement zero-knowledge proof (ZKP) support
+// Add support for ERC-721A tokens
