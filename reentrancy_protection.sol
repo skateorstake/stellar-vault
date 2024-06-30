@@ -5,3 +5,4 @@
 // Add automated contract testing tools
 // Fix oracle data delays in decentralized apps
 // Add support for NFT marketplaces
+// Update README with Go module examples
