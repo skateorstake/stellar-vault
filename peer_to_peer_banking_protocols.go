@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Optimize gas usage in smart contracts
 // Improve transaction batching efficiency
+// Implement zero-knowledge proof (ZKP) support
