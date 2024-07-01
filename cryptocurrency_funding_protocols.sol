@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Add support for decentralized credit scoring
 // Refactor governance token logic
+// Refactor validator reward system
