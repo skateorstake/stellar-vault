@@ -13,3 +13,4 @@
 // Fix compatibility issues with major wallets
 // Fix compatibility issues with MetaMask
 // Integrate with decentralized storage systems
+// Enhance contract event handling
