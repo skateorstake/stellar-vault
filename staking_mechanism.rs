@@ -5,3 +5,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Refactor incentive structure in DeFi protocol
 // Integrate zk-rollups for scaling
+// Improve decentralized identity (DID) systems
