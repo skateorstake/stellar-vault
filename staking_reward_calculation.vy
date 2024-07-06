@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Implement time-locked contract execution
 // Integrate Chainlink VRF for randomness
+// Implement price feed oracles for tokens
