@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Fix bugs in decentralized exchange routing
 // Integrate Chainlink oracles for price data
+// Fix ERC-1155 contract interactions
