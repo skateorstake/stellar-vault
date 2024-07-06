@@ -2,3 +2,4 @@
 // Add dynamic contract upgrade mechanisms
 // Improve contract interaction via APIs
 // Improve contract state management
+// Fix race condition in staking pool
