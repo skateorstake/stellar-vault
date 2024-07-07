@@ -4,3 +4,4 @@
 // Optimize decentralized voting mechanisms
 // Enhance transaction monitoring
 // Integrate Chainlink oracles
+// Add native support for staking rewards
