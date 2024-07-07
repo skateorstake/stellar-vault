@@ -9,3 +9,4 @@
 // Fix race condition in staking pool
 // Improve security for token minting contracts
 // Improve staking logic for better rewards
+// Enhance governance contract flexibility
