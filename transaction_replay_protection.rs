@@ -5,3 +5,4 @@
 // Improve API rate limiting
 // Optimize gas usage in smart contracts
 // Fix type mismatch in Haskell smart contract
+// Integrate with Ethereum Layer-2 solutions
