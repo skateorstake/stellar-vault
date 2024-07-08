@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Improve staking and yield farming logic
 // Fix wallet interaction issues in DeFi protocols
+// Fix memory leak in Rust smart contract
