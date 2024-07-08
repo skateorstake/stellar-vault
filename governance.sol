@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate with external blockchain networks
 // Enhance smart contract upgradeability
+// Refactor validator reward system
