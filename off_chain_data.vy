@@ -6,3 +6,4 @@
 // Improve decentralized oracle protocols
 // Integrate IPFS for storage
 // Fix issues with contract state management
+// Fix errors in NFT minting logic
