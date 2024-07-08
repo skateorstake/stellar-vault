@@ -3,3 +3,4 @@
 // Improve contract interaction via APIs
 // Improve contract state management
 // Fix race condition in staking pool
+// Integrate Chainlink VRF for randomness
