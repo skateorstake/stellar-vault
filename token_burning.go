@@ -4,3 +4,4 @@
 // Add dynamic contract fees
 // Optimize oracle data fetching mechanism
 // Improve gas fee estimation accuracy
+// Update README with Go module examples
