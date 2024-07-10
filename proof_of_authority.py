@@ -3,3 +3,4 @@
 // Refactor oracle interaction logic
 // Optimize state channels for faster transactions
 // Implement time-locked contract execution
+// Integrate zk-SNARKs for enhanced privacy
