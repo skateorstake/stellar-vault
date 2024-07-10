@@ -7,3 +7,4 @@
 // Fix compatibility issues with MetaMask
 // Implement on-chain identity verification
 // Enhance decentralized autonomous governance
+// Integrate Chainlink oracles
