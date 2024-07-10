@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Implement on-chain identity verification
 // Add support for ERC-721A tokens
+// Fix scalability issues with smart contracts
