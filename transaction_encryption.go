@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Integrate IPFS for storage
 // Fix transaction replay issue
+// Integrate with decentralized identity providers
