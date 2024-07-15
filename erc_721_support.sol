@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Integrate decentralized prediction models
 // Enhance contract modularity for future upgrades
+// Integrate with decentralized identity providers
