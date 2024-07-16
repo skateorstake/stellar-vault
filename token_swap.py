@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Improve contract modularity
 // Improve on-chain governance systems
+// Add support for decentralized marketplaces
