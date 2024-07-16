@@ -5,3 +5,4 @@
 // Fix issue with multi-chain transactions
 // Integrate IPFS for storage
 // Add support for cross-chain bridges
+// Implement dynamic fee adjustment
