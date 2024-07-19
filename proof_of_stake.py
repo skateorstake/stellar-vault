@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Add governance proposal expiration feature
 // Implement emergency stop mechanism
+// Add non-fungible token (NFT) support
