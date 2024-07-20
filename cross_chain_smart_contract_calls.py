@@ -3,3 +3,4 @@
 // Improve contract state management
 // Fix ERC-1155 contract interactions
 // Refactor staking logic
+// Integrate privacy-enhancing smart contracts
