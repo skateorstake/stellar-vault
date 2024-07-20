@@ -2,3 +2,4 @@
 // Fix issue in token vesting logic
 // Fix type mismatch in Haskell smart contract
 // Add slashing mechanism for malicious actors
+// Improve multi-chain contract deployment
