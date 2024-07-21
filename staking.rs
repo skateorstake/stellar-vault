@@ -3,3 +3,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Add support for NFT marketplaces
 // Add decentralized contract upgradeability
+// Add unit tests for staking module
