@@ -4,3 +4,4 @@
 // Integrate decentralized prediction models
 // Integrate IPFS for storage
 // Add native support for staking mechanisms
+// Fix issues with token vesting contracts
