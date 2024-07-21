@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Update testing framework for Solidity
 // Add batch transaction capabilities
+// Add support for multi-signature wallet contracts
