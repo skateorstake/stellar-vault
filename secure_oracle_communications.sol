@@ -3,3 +3,4 @@
 // Fix issues with cross-chain transaction finality
 // Fix issue in ERC-20 token transfers
 // Implement rewards escrow system
+// Add native support for staking rewards
