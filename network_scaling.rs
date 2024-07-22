@@ -10,3 +10,4 @@
 // Refactor cross-chain communication layer
 // Enhance smart contract audit tools
 // Update testing framework for Solidity
+// Add new RPC endpoint
