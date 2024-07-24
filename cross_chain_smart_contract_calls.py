@@ -4,3 +4,4 @@
 // Fix ERC-1155 contract interactions
 // Refactor staking logic
 // Integrate privacy-enhancing smart contracts
+// Fix memory leak in Rust smart contract
