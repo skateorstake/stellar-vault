@@ -4,3 +4,4 @@
 // Integrate chain-agnostic oracles
 // Fix compatibility issues with MetaMask
 // Refactor cross-chain communication layer
+// Add fallback mechanism in Solidity contract
