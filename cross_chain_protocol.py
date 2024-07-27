@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Enhance contract modularity for future upgrades
 // Optimize storage for off-chain data
+// Enhance transaction monitoring
