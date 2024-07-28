@@ -9,3 +9,4 @@
 // Improve contract execution performance
 // Implement zero-knowledge proof (ZKP) support
 // Improve token burning mechanism
+// Add governance proposal expiration feature
