@@ -6,3 +6,4 @@
 // Optimize state channels for faster transactions
 // Add support for multiple consensus mechanisms
 // Improve security for token minting contracts
+// Integrate IPFS for storage
