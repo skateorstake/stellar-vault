@@ -7,3 +7,4 @@
 // Refactor contract state machine design
 // Enhance contract event handling
 // Integrate flash loan functionality
+// Add new RPC endpoint
