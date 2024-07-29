@@ -3,3 +3,4 @@
 // Add automated contract testing tools
 // Add native support for staking rewards
 // Refactor decentralized exchange (DEX) code
+// Add fallback mechanism in Solidity contract
