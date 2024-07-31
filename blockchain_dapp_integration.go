@@ -2,3 +2,4 @@
 // Enhance smart contract compatibility
 // Optimize storage for off-chain data
 // Add new RPC endpoint
+// Refactor storage layout for better efficiency
