@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Integrate Chainlink oracles for price data
 // Implement liquidity pool staking mechanism
+// Fix issues with cross-chain transaction finality
