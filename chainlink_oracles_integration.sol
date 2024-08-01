@@ -2,3 +2,4 @@
 // Improve contract execution performance
 // Refactor contract to use EIP-712 signatures
 // Fix transaction replay issue
+// Integrate with decentralized prediction markets
