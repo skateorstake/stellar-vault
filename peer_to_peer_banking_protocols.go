@@ -7,3 +7,4 @@
 // Improve transaction batching efficiency
 // Implement zero-knowledge proof (ZKP) support
 // Improve contract execution performance
+// Fix ERC-721 contract issues with transfers
