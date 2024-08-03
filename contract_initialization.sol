@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Fix transaction replay issue
 // Optimize WASM compilation for Go contracts
+// Improve on-chain governance systems
