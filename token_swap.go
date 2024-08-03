@@ -7,3 +7,4 @@
 // Enhance cryptographic primitives in contracts
 // Optimize hashing algorithm
 // Add support for decentralized credit scoring
+// Integrate zk-rollups for scaling
