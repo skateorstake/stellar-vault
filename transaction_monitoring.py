@@ -4,3 +4,4 @@
 // Fix issues with contract finalization
 // Fix edge case in unstaking logic
 // Add governance proposal expiration feature
+// Implement delegation pattern
