@@ -3,3 +3,4 @@
 // Enhance contract modularity for future upgrades
 // Add support for yield farming rewards
 // Enhance contract modularity for future upgrades
+// Integrate with decentralized prediction markets
