@@ -5,3 +5,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix memory leak in Rust smart contract
 // Add support for DeFi lending protocols
+// Refactor smart contract testing framework
