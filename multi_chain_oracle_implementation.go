@@ -5,3 +5,4 @@
 // Improve smart contract code modularity
 // Optimize storage for off-chain data
 // Add support for ERC-1155 tokens
+// Improve token burning mechanism
