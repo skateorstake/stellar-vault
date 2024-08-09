@@ -7,3 +7,4 @@
 // Implement performance optimizations for DeFi
 // Add governance proposal expiration feature
 // Update smart contract tests
+// Add multi-sig wallet functionality
