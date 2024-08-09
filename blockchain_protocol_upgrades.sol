@@ -4,3 +4,4 @@
 // Fix contract reentrancy issues
 // Refactor oracle interaction logic
 // Fix vulnerability in decentralized finance protocols
+// Refactor validator reward system
