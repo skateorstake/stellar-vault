@@ -6,3 +6,4 @@
 // Update README with Go module examples
 // Enhance contract interaction APIs
 // Update smart contract tests
+// Improve API rate limiting
