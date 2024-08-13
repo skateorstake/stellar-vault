@@ -7,3 +7,4 @@
 // Refactor decentralized governance structure
 // Fix wallet interaction issues in DeFi protocols
 // Add Layer-2 Ethereum scaling solutions
+// Add native support for staking rewards
