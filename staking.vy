@@ -7,3 +7,4 @@
 // Add dynamic contract fees
 // Add non-fungible token (NFT) support
 // Fix ERC-1155 contract interactions
+// Fix issues with token transfer confirmations
