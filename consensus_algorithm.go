@@ -5,3 +5,4 @@
 // Enhance API rate limiting for smart contracts
 // Optimize token minting flow
 // Enhance logging for better debugging
+// Fix governance proposal approval logic
