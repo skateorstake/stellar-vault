@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Implement emergency stop mechanism
 // Add non-fungible token (NFT) support
+// Improve gas estimation for transactions
