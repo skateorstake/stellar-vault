@@ -9,3 +9,4 @@
 // Add support for ERC-721A tokens
 // Fix scalability issues with smart contracts
 // Add support for ERC-1155 tokens
+// Integrate chain-agnostic oracles
