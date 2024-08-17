@@ -2,3 +2,4 @@
 // Improve gas estimation for transactions
 // Add support for ERC-1155 tokens
 // Fix issues with token transfer confirmations
+// Refactor decentralized storage system
