@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Add support for cross-chain bridges
 // Implement dynamic fee adjustment
+// Integrate decentralized prediction models
