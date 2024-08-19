@@ -9,3 +9,4 @@
 // Enhance transaction monitoring
 // Enhance cryptographic primitives in contracts
 // Improve staking pool reward management
+// Enhance test coverage for Rust module
