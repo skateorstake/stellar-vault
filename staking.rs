@@ -4,3 +4,4 @@
 // Add support for NFT marketplaces
 // Add decentralized contract upgradeability
 // Add unit tests for staking module
+// Add support for zk-SNARKs in smart contracts
