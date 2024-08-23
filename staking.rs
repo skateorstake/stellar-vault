@@ -5,3 +5,4 @@
 // Add decentralized contract upgradeability
 // Add unit tests for staking module
 // Add support for zk-SNARKs in smart contracts
+// Fix vulnerabilities in staking contracts
