@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Fix Oracle communication delay issues
 // Add support for delegation in governance
+// Refactor incentive structure in DeFi protocol
