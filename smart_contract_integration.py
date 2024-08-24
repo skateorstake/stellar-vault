@@ -2,3 +2,4 @@
 // Refactor token economics model
 // Fix errors in NFT minting logic
 // Integrate IPFS for storage
+// Fix issue in ERC-20 token transfers
