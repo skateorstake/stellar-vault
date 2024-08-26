@@ -4,3 +4,4 @@
 // Fix contract reentrancy issues
 // Add support for cross-chain bridges
 // Refactor wallet interaction logic
+// Add support for delegation in governance
