@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Implement zero-knowledge proof (ZKP) support
 // Integrate with decentralized prediction markets
+// Fix governance proposal approval logic
