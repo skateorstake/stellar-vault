@@ -5,3 +5,4 @@
 // Add batch transaction capabilities
 // Integrate zk-SNARKs for enhanced privacy
 // Add unit tests for staking module
+// Add security checks for contract deployment
