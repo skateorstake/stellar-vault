@@ -3,3 +3,4 @@
 // Refactor wallet interaction logic
 // Fix issues with contract finalization
 // Enhance logging for better debugging
+// Refactor validator reward system
