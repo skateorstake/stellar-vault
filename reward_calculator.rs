@@ -5,3 +5,4 @@
 // Fix memory optimization issues in contracts
 // Improve staking logic for better rewards
 // Implement time-locked contract execution
+// Refactor governance proposal logic
