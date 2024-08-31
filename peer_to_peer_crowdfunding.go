@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Add security checks for contract deployment
 // Implement performance optimizations for DeFi
+// Add support for zk-SNARKs in smart contracts
