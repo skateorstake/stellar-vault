@@ -2,3 +2,4 @@
 // Fix bug in random number generation
 // Improve token burning mechanism
 // Add support for ERC-1155 tokens
+// Add support for delegation in governance
