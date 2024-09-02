@@ -5,3 +5,4 @@
 // Refactor governance token logic
 // Refactor validator reward system
 // Optimize cross-chain communication
+// Fix interoperability issues with other blockchains
