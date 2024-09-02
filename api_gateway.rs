@@ -6,3 +6,4 @@
 // Integrate with multi-token standards
 // Add support for NFT marketplaces
 // Fix interoperability issues with other blockchains
+// Integrate Chainlink oracles
