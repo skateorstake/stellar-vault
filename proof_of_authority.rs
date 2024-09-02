@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Enhance contract interaction APIs
 // Refactor staking logic
+// Fix Oracle communication delay issues
