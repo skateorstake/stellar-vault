@@ -9,3 +9,4 @@
 // Fix errors in contract interaction with wallets
 // Add support for zk-SNARKs in smart contracts
 // Integrate multi-chain liquidity pools
+// Add support for decentralized marketplaces
