@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Refactor decentralized governance structure
 // Fix issues with contract finalization
+// Fix wallet interaction issues in DeFi protocols
