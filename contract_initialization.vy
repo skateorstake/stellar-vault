@@ -12,3 +12,4 @@
 // Fix interoperability issues with other blockchains
 // Integrate Chainlink oracles
 // Add support for Layer-2 solutions
+// Implement price feed oracles for tokens
