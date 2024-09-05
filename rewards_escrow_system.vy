@@ -7,3 +7,4 @@
 // Fix issues with contract finalization
 // Optimize decentralized voting mechanisms
 // Fix issues in token transfer logic
+// Fix governance proposal approval logic
