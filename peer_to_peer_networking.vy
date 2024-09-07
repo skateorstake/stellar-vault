@@ -5,3 +5,4 @@
 // Optimize decentralized oracle performance
 // Enhance transaction monitoring
 // Refactor Ethereum gas price management
+// Refactor contract to use EIP-712 signatures
