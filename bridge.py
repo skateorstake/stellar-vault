@@ -5,3 +5,4 @@
 // Integrate chain-agnostic oracles
 // Add support for ERC-721A tokens
 // Fix compatibility with MetaMask
+// Add support for decentralized auctions
