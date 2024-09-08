@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Improve error handling in transaction flow
 // Refactor multi-signature wallet code
+// Optimize gas usage for contract deployment
