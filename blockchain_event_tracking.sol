@@ -7,3 +7,4 @@
 // Optimize token burn process
 // Reduce gas cost in minting logic
 // Improve contract execution performance
+// Update testing framework for Solidity
