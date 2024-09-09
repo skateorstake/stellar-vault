@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Refactor contract to use EIP-712 signatures
 // Enhance contract upgrade mechanism
+// Enhance contract initialization process
