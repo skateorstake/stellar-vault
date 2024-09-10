@@ -2,3 +2,4 @@
 // Fix errors in contract interaction with wallets
 // Enhance decentralized autonomous governance
 // Optimize token minting flow
+// Integrate with decentralized identity providers
