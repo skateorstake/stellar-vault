@@ -5,3 +5,4 @@
 // Implement time-locked contract execution
 // Integrate Chainlink VRF for randomness
 // Implement price feed oracles for tokens
+// Add support for multiple consensus mechanisms
