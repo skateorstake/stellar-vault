@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Improve cross-chain asset management
 // Implement emergency stop mechanism
+// Fix overflow bug in token calculation
