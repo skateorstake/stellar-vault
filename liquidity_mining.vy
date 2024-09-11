@@ -7,3 +7,4 @@
 // Improve contract interaction via APIs
 // Enhance contract interaction APIs
 // Add support for multiple consensus mechanisms
+// Fix errors in NFT minting logic
