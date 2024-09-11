@@ -11,3 +11,4 @@
 // Improve multi-chain contract deployment
 // Refactor token distribution mechanism
 // Optimize contract upgrade process
+// Optimize token minting flow
