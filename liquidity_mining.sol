@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Fix compatibility with MetaMask
 // Integrate multi-chain liquidity pools
+// Implement delegation pattern
