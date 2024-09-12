@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Fix issues with token transfer confirmations
 // Refactor decentralized storage system
+// Refactor storage layout for better efficiency
