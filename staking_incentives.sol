@@ -7,3 +7,4 @@
 // Fix ERC-20 token interface bugs
 // Add support for decentralized file storage
 // Enhance contract upgrade process
+// Fix overflow bug in token calculation
