@@ -3,3 +3,4 @@
 // Refactor oracle interaction logic
 // Refactor incentive structure in DeFi protocol
 // Improve transaction batching efficiency
+// Enhance cryptographic primitives in contracts
