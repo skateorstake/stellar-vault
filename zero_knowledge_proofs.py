@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve decentralized lending contract flexibility
 // Fix memory leak in Rust smart contract
+// Fix transaction replay issue
