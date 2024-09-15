@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Add support for zk-SNARKs in smart contracts
 // Fix ERC-721 contract issues with transfers
+// Fix ERC-721 contract issues with transfers
