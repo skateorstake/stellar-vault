@@ -2,3 +2,4 @@
 // Update smart contract tests
 // Integrate Chainlink oracles
 // Improve DApp transaction flow
+// Integrate privacy-enhancing smart contracts
