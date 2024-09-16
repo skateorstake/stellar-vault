@@ -3,3 +3,4 @@
 // Fix issues with contract finalization
 // Bugfix: incorrect reward calculation
 // Implement on-chain fee adjustment mechanisms
+// Improve decentralized exchange (DEX) liquidity
