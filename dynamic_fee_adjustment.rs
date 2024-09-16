@@ -5,3 +5,4 @@
 // Update testing framework for Solidity
 // Add batch transaction capabilities
 // Add support for multi-signature wallet contracts
+// Fix bugs in NFT metadata handling
