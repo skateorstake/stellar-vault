@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Improve staking logic for better rewards
 // Fix token transfer approval issues
+// Add multi-chain governance support
