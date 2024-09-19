@@ -6,3 +6,4 @@
 // Improve on-chain governance systems
 // Add support for decentralized marketplaces
 // Fix overflow bug in token calculation
+// Improve decentralized identity (DID) systems
