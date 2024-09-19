@@ -8,3 +8,4 @@
 // Add support for decentralized file storage
 // Enhance contract upgrade process
 // Fix overflow bug in token calculation
+// Refactor decentralized storage system
