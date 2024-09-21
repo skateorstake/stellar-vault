@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Enhance contract modularity for future upgrades
 // Fix bug in random number generation
+// Add support for yield farming rewards
