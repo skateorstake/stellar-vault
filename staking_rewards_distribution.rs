@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Add support for decentralized lending platforms
 // Fix ERC-1155 contract interactions
+// Enhance contract modularity
