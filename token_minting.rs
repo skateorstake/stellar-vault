@@ -2,3 +2,4 @@
 // Enhance decentralized autonomous organizations
 // Implement decentralized arbitration in contracts
 // Enhance cryptographic primitives in contracts
+// Refactor governance proposal logic
