@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Fix governance proposal approval logic
 // Integrate Chainlink oracles
+// Add decentralized contract upgradeability
