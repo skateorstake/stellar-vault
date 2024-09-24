@@ -5,3 +5,4 @@
 // Fix vulnerabilities in staking contracts
 // Add support for ERC-1155 tokens
 // Implement on-chain identity verification
+// Enhance decentralized autonomous governance
