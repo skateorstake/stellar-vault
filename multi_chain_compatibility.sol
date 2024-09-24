@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Integrate with external DeFi protocols
 // Update smart contract tests
+// Refactor decentralized exchange (DEX) code
