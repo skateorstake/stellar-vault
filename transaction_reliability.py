@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Add support for zk-SNARKs in smart contracts
 // Enhance logging for better debugging
+// Enhance contract modularity for future upgrades
