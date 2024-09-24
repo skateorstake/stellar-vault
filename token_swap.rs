@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Fix vulnerabilities in staking contracts
 // Enhance contract interaction APIs
+// Implement adaptive block size for Ethereum
