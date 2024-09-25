@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve contract execution performance
 // Integrate decentralized prediction models
+// Optimize contract storage for gas reduction
