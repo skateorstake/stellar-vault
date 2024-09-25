@@ -7,3 +7,4 @@
 // Fix issue with multi-chain transactions
 // Refactor decentralized governance structure
 // Enhance token swap functionality
+// Implement cross-chain bridge
