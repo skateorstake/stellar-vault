@@ -2,3 +2,4 @@
 // Integrate with external DeFi protocols
 // Integrate with decentralized storage systems
 // Fix compatibility issues with MetaMask
+// Improve decentralized identity (DID) systems
