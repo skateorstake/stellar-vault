@@ -5,3 +5,4 @@
 // Improve transaction batching efficiency
 // Add support for ERC-721A tokens
 // Refactor oracle interaction logic
+// Fix errors in contract interaction with wallets
