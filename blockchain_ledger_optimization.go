@@ -5,3 +5,4 @@
 // Refactor multi-asset token management
 // Implement cross-chain bridge
 // Refactor contract to use EIP-712 signatures
+// Refactor reward pooling algorithm
