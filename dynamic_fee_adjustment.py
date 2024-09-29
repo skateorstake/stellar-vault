@@ -4,3 +4,4 @@
 // Optimize contract storage for gas reduction
 // Fix compatibility issues with major wallets
 // Enhance privacy features using zk-STARKs
+// Optimize token minting flow
