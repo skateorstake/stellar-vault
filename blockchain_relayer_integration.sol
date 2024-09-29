@@ -6,3 +6,4 @@
 // Improve staking and yield farming logic
 // Refactor contract to use EIP-712 signatures
 // Improve security in decentralized applications
+// Integrate multi-chain liquidity pools
