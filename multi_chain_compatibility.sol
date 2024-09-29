@@ -4,3 +4,4 @@
 // Integrate with external DeFi protocols
 // Update smart contract tests
 // Refactor decentralized exchange (DEX) code
+// Add support for multiple consensus mechanisms
