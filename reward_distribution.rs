@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement reward distribution feature
 // Code cleanup and documentation update
+// Fix bugs in decentralized exchange routing
