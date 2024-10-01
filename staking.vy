@@ -8,3 +8,4 @@
 // Add non-fungible token (NFT) support
 // Fix ERC-1155 contract interactions
 // Fix issues with token transfer confirmations
+// Optimize state channels for faster transactions
