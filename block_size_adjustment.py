@@ -8,3 +8,4 @@
 // Implement decentralized arbitration in contracts
 // Enhance smart contract upgradeability
 // Enhance contract upgrade mechanism
+// Fix issues with cross-chain transaction finality
