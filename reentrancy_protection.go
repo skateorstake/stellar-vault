@@ -5,3 +5,4 @@
 // Enhance transaction monitoring
 // Integrate Chainlink oracles
 // Add native support for staking rewards
+// Fix contract reentrancy issues
