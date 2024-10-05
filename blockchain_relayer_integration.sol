@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve security in decentralized applications
 // Integrate multi-chain liquidity pools
+// Integrate privacy-preserving mechanisms
