@@ -5,3 +5,4 @@
 // Add support for decentralized auctions
 // Add support for delegation in governance
 // Enhance decentralized autonomous governance
+// Integrate flash loan functionality
