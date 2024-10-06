@@ -6,3 +6,4 @@
 // Enhance governance contract flexibility
 // Improve decentralized exchange (DEX) liquidity
 // Enhance privacy features using zk-STARKs
+// Implement zero-knowledge proof (ZKP) support
