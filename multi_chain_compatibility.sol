@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Refactor decentralized exchange (DEX) code
 // Add support for multiple consensus mechanisms
+// Fix ERC-20 token interface bugs
