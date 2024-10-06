@@ -7,3 +7,4 @@
 // Update testing framework for Solidity
 // Implement cross-platform contract compatibility
 // Enhance contract initialization process
+// Add governance proposal expiration feature
