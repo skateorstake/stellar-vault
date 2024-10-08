@@ -7,3 +7,4 @@
 // Implement price feed oracles for tokens
 // Add support for multiple consensus mechanisms
 // Improve contract verification speed
+// Improve gas fee estimation accuracy
