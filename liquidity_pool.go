@@ -3,3 +3,4 @@
 // Improve ERC-721 token metadata functionality
 // Refactor token economics model
 // Improve smart contract logging
+// Integrate zk-SNARKs for enhanced privacy
