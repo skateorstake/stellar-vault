@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Fix governance proposal approval logic
 // Add native support for staking rewards
+// Add slashing mechanism for malicious actors
