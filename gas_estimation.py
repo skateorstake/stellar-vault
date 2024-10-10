@@ -6,3 +6,4 @@
 // Enhance contract interaction APIs
 // Refactor oracle interaction logic
 // Enhance cryptographic primitives in contracts
+// Fix overflow bug in token calculation
