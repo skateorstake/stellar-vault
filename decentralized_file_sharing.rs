@@ -5,3 +5,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for yield farming rewards
 // Add native support for staking mechanisms
+// Improve gas estimation for transactions
