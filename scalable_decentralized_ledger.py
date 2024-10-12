@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Integrate with multi-token standards
 // Improve contract auditing tools
+// Add batch transaction capabilities
