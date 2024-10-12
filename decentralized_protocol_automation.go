@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Add native support for staking mechanisms
 // Fix issues with token vesting contracts
+// Code cleanup and documentation update
