@@ -2,3 +2,4 @@
 // Fix data consistency issues in smart contracts
 // Fix type mismatch in Haskell smart contract
 // Fix edge case in unstaking logic
+// Add security checks for contract deployment
