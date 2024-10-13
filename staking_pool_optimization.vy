@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix issues with contract finalization
 // Enhance security checks
+// Improve decentralized exchange (DEX) liquidity
