@@ -3,3 +3,4 @@
 // Fix deserialization bug in Haskell code
 // Implement a new contract event system
 // Add support for zk-SNARKs in smart contracts
+// Improve transaction batching efficiency
