@@ -2,3 +2,4 @@
 // Enhance governance contract flexibility
 // Add support for NFT marketplaces
 // Enhance developer documentation
+// Enhance privacy features using zk-STARKs
