@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Enhance smart contract compatibility
 // Optimize storage for off-chain data
+// Refactor storage layout for better efficiency
