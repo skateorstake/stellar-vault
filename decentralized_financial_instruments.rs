@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Optimize cross-chain bridging mechanisms
 // Fix Oracle communication delay issues
+// Add governance proposal expiration feature
