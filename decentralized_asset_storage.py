@@ -2,3 +2,4 @@
 // Improve contract execution performance
 // Integrate decentralized anonymous identity systems
 // Enhance logging for better debugging
+// Fix compatibility issues with major wallets
