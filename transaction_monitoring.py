@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Add governance proposal expiration feature
 // Implement delegation pattern
+// Fix ERC-1155 contract interactions
