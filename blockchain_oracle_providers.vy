@@ -2,3 +2,4 @@
 // Code cleanup and documentation update
 // Refactor smart contract testing framework
 // Improve security in decentralized applications
+// Add slashing mechanism for malicious actors
