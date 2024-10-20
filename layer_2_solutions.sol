@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous governance
 // Enhance smart contract upgradeability
 // Refactor staking logic
+// Add multi-chain transaction support
