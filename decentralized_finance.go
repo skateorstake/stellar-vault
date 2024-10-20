@@ -6,3 +6,4 @@
 // Refactor governance proposal logic
 // Add batch processing for transactions
 // Fix issue with multi-chain transactions
+// Implement rewards escrow system
