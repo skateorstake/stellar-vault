@@ -6,3 +6,4 @@
 // Improve contract execution speed
 // Fix interoperability issues with other blockchains
 // Enhance developer documentation
+// Fix compatibility issues with major wallets
