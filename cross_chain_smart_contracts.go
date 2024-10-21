@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Fix token transfer approval issues
 // Add multi-chain governance support
+// Fix race condition in staking pool
