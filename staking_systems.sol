@@ -5,3 +5,4 @@
 // Enhance cryptographic primitives in contracts
 // Add support for delegation in governance
 // Enhance smart contract extensibility
+// Add support for batch transaction processing
