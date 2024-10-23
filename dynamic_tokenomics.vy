@@ -2,3 +2,4 @@
 // Refactor Ethereum gas price management
 // Fix compatibility issues with major wallets
 // Improve token minting flow efficiency
+// Integrate with multi-token standards
