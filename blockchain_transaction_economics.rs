@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix compatibility with MetaMask
 // Fix errors in contract interaction with wallets
+// Improve cross-chain asset management
