@@ -8,3 +8,4 @@
 // Add automated contract testing tools
 // Add non-fungible token (NFT) support
 // Improve API rate limiting
+// Update testing framework for Solidity
