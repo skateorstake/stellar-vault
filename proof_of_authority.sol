@@ -3,3 +3,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix edge case in unstaking logic
 // Add security checks for contract deployment
+// Fix governance proposal approval logic
