@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Integrate decentralized prediction models
 // Improve gas fee estimation accuracy
+// Integrate zk-rollups for scaling
