@@ -5,3 +5,4 @@
 // Enhance contract initialization process
 // Fix ERC-721 contract issues with transfers
 // Improve contract creation process
+// Add governance proposal expiration feature
