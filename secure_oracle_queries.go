@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance contract initialization process
 // Fix errors in NFT minting logic
+// Code cleanup and documentation update
