@@ -4,3 +4,4 @@
 // Integrate decentralized prediction models
 // Optimize hashing algorithm
 // Update README with Go module examples
+// Implement cross-platform contract compatibility
