@@ -7,3 +7,4 @@
 // Refactor governance proposal logic
 // Integrate Chainlink oracles for price data
 // Integrate with Ethereum Layer-2 solutions
+// Improve multi-chain contract deployment
