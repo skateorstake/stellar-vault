@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Add support for cross-chain bridges
 // Refactor reward pooling algorithm
+// Improve gas estimation for transactions
