@@ -5,3 +5,4 @@
 // Add support for cross-chain bridges
 // Refactor wallet interaction logic
 // Add support for delegation in governance
+// Improve token burning mechanism
