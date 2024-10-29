@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Refactor multi-signature wallet code
 // Add support for cross-chain bridges
+// Refactor reward pooling algorithm
