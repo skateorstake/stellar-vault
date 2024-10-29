@@ -6,3 +6,4 @@
 // Fix Oracle communication delay issues
 // Fix issue in token vesting logic
 // Enhance contract modularity
+// Enhance smart contract upgradeability
