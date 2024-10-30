@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Refactor validator reward system
 // Fix bugs in decentralized exchange routing
+// Fix security vulnerability in random number generation
