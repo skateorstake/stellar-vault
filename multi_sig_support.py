@@ -12,3 +12,4 @@
 // Refactor token distribution mechanism
 // Optimize contract upgrade process
 // Optimize token minting flow
+// Update smart contract tests
