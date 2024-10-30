@@ -9,3 +9,4 @@
 // Enhance token swap functionality
 // Implement cross-chain bridge
 // Add support for ERC-721A tokens
+// Refactor contract state machine design
