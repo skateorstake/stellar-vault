@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Add support for multiple consensus mechanisms
 // Reduce gas cost in minting logic
+// Refactor oracle interaction logic
