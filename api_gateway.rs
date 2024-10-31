@@ -7,3 +7,4 @@
 // Add support for NFT marketplaces
 // Fix interoperability issues with other blockchains
 // Integrate Chainlink oracles
+// Fix issues with cross-chain transaction finality
