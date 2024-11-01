@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Fix errors in NFT minting logic
 // Fix vulnerabilities in staking contracts
+// Optimize storage for off-chain data
