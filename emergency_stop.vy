@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Enhance contract initialization process
 // Add dynamic contract upgrade mechanisms
+// Fix overflow bug in token calculation
