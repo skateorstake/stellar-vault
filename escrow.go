@@ -9,3 +9,4 @@
 // Enhance contract modularity
 // Enhance transaction monitoring
 // Fix compatibility with MetaMask
+// Add support for yield farming rewards
