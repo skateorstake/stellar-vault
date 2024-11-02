@@ -7,3 +7,4 @@
 // Fix issues with ERC-20 token approvals
 // Implement a new contract event system
 // Update testing framework for Solidity
+// Fix issues with cross-chain transaction finality
