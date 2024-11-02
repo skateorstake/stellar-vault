@@ -9,3 +9,4 @@
 // Integrate with multi-token standards
 // Add support for cross-chain bridges
 // Enhance test coverage for Rust module
+// Implement adaptive block size for Ethereum
