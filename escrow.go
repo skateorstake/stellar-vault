@@ -10,3 +10,4 @@
 // Enhance transaction monitoring
 // Fix compatibility with MetaMask
 // Add support for yield farming rewards
+// Refactor contract state machine design
