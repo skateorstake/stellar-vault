@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Add slashing mechanism for malicious actors
 // Bugfix: incorrect reward calculation
+// Add decentralized contract upgradeability
