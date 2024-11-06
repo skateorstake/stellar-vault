@@ -7,3 +7,4 @@
 // Add multi-chain transaction support
 // Fix wallet interaction issues in DeFi protocols
 // Fix memory leak in Rust smart contract
+// Fix overflow bug in token calculation
