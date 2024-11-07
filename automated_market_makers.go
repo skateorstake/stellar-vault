@@ -3,3 +3,4 @@
 // Code cleanup and documentation update
 // Improve contract verification speed
 // Add dynamic contract fees
+// Integrate zk-SNARKs for enhanced privacy
