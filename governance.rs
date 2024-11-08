@@ -5,3 +5,4 @@
 // Add support for decentralized lending platforms
 // Implement price feed oracles for tokens
 // Enhance smart contract state changes monitoring
+// Fix compatibility issues with major wallets
