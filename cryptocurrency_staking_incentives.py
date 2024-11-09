@@ -3,3 +3,4 @@
 // Add automated smart contract testing
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor storage layout for better efficiency
+// Optimize storage for off-chain data
