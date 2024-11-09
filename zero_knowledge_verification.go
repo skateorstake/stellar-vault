@@ -3,3 +3,4 @@
 // Add native support for staking mechanisms
 // Add support for decentralized auctions
 // Fix errors in contract interaction with wallets
+// Add support for decentralized content distribution
