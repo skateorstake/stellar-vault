@@ -4,3 +4,4 @@
 // Enhance smart contract extensibility
 // Optimize proof-of-stake validation
 // Implement cross-chain bridge
+// Integrate Chainlink VRF for randomness
