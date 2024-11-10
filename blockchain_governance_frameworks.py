@@ -5,3 +5,4 @@
 // Add automated token buyback mechanism
 // Fix token transfer approval issues
 // Refactor multi-asset token management
+// Add slashing mechanism for malicious actors
