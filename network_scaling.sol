@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Fix compatibility issues with major wallets
 // Enhance governance contract flexibility
+// Add support for NFT marketplaces
