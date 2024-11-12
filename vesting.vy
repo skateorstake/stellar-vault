@@ -12,3 +12,4 @@
 // Fix governance proposal approval logic
 // Improve contract interaction via APIs
 // Reduce gas cost in minting logic
+// Refactor contract event emission
