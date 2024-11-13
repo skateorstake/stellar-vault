@@ -8,3 +8,4 @@
 // Fix issues with contract state management
 // Fix errors in NFT minting logic
 // Enhance decentralized autonomous governance
+// Add support for ERC-721A tokens
