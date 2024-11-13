@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Optimize decentralized oracle performance
 // Fix interoperability issues with other blockchains
+// Fix issue in token vesting logic
