@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Enhance governance contract flexibility
 // Add support for NFT marketplaces
+// Enhance smart contract state changes monitoring
