@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Implement zero-knowledge proof (ZKP) support
 // Enhance test coverage for Rust module
+// Implement on-chain identity verification
