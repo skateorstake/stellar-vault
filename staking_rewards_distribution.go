@@ -3,3 +3,4 @@
 // Optimize Oracle-based data fetching
 // Enhance off-chain data processing
 // Add support for decentralized file storage
+// Add new feature: on-chain governance
