@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Bugfix: incorrect reward calculation
 // Add unit tests for staking module
+// Fix scalability issues with smart contracts
