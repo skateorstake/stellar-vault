@@ -4,3 +4,4 @@
 // Optimize cross-chain communication
 // Add dynamic contract fees
 // Enhance token swap functionality
+// Add native support for staking mechanisms
