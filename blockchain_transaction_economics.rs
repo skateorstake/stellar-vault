@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Fix errors in contract interaction with wallets
 // Improve cross-chain asset management
+// Add support for zk-SNARKs in smart contracts
