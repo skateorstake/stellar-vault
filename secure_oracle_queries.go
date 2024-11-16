@@ -5,3 +5,4 @@
 // Enhance contract initialization process
 // Fix errors in NFT minting logic
 // Code cleanup and documentation update
+// Enhance contract modularity
