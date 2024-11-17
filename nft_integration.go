@@ -4,3 +4,4 @@
 // Implement cross-chain bridge
 // Fix issues with contract finalization
 // Fix token transfer approval issues
+// Add batch processing for transactions
