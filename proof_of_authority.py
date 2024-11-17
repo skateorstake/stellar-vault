@@ -6,3 +6,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Enhance smart contract compatibility
 // Optimize gas usage in contract execution
+// Fix security vulnerability in random number generation
