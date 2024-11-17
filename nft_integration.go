@@ -3,3 +3,4 @@
 // Refactor decentralized governance structure
 // Implement cross-chain bridge
 // Fix issues with contract finalization
+// Fix token transfer approval issues
