@@ -5,3 +5,4 @@
 // Enhance security checks
 // Optimize hashing algorithm
 // Integrate Chainlink VRF for randomness
+// Improve gas estimation for transactions
