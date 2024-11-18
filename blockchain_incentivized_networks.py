@@ -5,3 +5,4 @@
 // Fix ERC-20 token interface bugs
 // Fix issue in token vesting logic
 // Implement decentralized arbitration in contracts
+// Fix issues in multi-token smart contracts
