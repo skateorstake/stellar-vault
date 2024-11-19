@@ -6,3 +6,4 @@
 // Update smart contract tests
 // Fix memory leak in Rust smart contract
 // Implement time-locked contract execution
+// Refactor reward pooling algorithm
