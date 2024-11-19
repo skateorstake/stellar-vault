@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Refactor governance proposal logic
 // Enhance contract upgrade process
+// Add support for cross-chain bridges
