@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Improve decentralized lending contract flexibility
 // Fix issues with gas optimization in smart contracts
+// Refactor reward pooling algorithm
