@@ -4,3 +4,4 @@
 // Add native support for staking mechanisms
 // Refactor staking logic
 // Fix bugs in NFT metadata handling
+// Fix governance proposal approval logic
