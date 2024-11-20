@@ -4,3 +4,4 @@
 // Enhance contract event handling
 // Fix Oracle communication delay issues
 // Update smart contract tests
+// Fix issue in token vesting logic
