@@ -6,3 +6,4 @@
 // Integrate with multi-token standards
 // Implement reward distribution feature
 // Improve scalability for smart contract platforms
+// Improve gas estimation for transactions
