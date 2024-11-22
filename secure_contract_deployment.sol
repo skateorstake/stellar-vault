@@ -7,3 +7,4 @@
 // Update README with Go module examples
 // Integrate Chainlink oracles
 // Refactor decentralized governance structure
+// Integrate decentralized prediction models
