@@ -10,3 +10,4 @@
 // Fix oracle data delays in decentralized apps
 // Refactor contract event emission
 // Optimize gas usage in smart contracts
+// Fix compatibility issues with major wallets
