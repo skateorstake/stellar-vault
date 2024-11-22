@@ -12,3 +12,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize gas usage for contract deployment
 // Integrate Chainlink oracles
+// Add new RPC endpoint
