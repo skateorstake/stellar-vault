@@ -2,3 +2,4 @@
 // Enhance developer documentation
 // Add native support for staking rewards
 // Add support for cross-chain bridges
+// Implement on-chain identity verification
