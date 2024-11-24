@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Implement reward distribution feature
 // Integrate decentralized prediction models
+// Update dependencies for Vyper contract
