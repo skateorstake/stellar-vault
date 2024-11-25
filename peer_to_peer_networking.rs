@@ -5,3 +5,4 @@
 // Enhance smart contract extensibility
 // Enhance logging for better debugging
 // Fix issues with token vesting contracts
+// Integrate IPFS for storage
