@@ -5,3 +5,4 @@
 // Implement decentralized arbitration in contracts
 // Improve security in decentralized applications
 // Fix security vulnerability in random number generation
+// Improve decentralized identity (DID) systems
