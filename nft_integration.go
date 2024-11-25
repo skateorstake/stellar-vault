@@ -5,3 +5,4 @@
 // Fix issues with contract finalization
 // Fix token transfer approval issues
 // Add batch processing for transactions
+// Add support for zk-SNARKs in smart contracts
