@@ -5,3 +5,4 @@
 // Fix issues in token transfer logic
 // Refactor contract to use EIP-712 signatures
 // Optimize proof-of-stake validation
+// Refactor oracle interaction logic
