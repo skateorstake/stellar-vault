@@ -6,3 +6,4 @@
 // Enhance transaction monitoring
 // Refactor Ethereum gas price management
 // Refactor contract to use EIP-712 signatures
+// Integrate with Ethereum Layer-2 solutions
