@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor contract to use EIP-712 signatures
 // Fix ERC-721 contract issues with transfers
+// Add support for ERC-1155 tokens
