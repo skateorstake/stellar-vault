@@ -5,3 +5,4 @@
 // Update testing framework for Solidity
 // Enhance decentralized finance (DeFi) ecosystem
 // Update smart contract tests
+// Add unit tests for staking module
