@@ -4,3 +4,4 @@
 // Enhance contract interaction APIs
 // Integrate Chainlink VRF for randomness
 // Optimize gas usage for contract deployment
+// Refactor reward pooling algorithm
