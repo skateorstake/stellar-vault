@@ -4,3 +4,4 @@
 // Add support for decentralized content distribution
 // Refactor token distribution mechanism
 // Refactor token economics model
+// Fix governance proposal approval logic
