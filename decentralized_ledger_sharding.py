@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles
 // Optimize token burn process
 // Fix contract reentrancy issues
+// Fix compatibility issues with MetaMask
