@@ -6,3 +6,4 @@
 // Refactor cross-chain communication layer
 // Add fallback mechanism in Solidity contract
 // Add support for ERC-1155 tokens
+// Implement reward distribution feature
