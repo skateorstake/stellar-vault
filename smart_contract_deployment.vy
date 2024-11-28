@@ -5,3 +5,4 @@
 // Enhance contract modularity for future upgrades
 // Add support for multiple consensus mechanisms
 // Add support for ERC-1155 tokens
+// Fix bug in random number generation
