@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Add native support for staking mechanisms
 // Improve security in decentralized applications
+// Add support for zk-SNARKs in smart contracts
