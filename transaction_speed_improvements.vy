@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Update README with Go module examples
 // Implement cross-platform contract compatibility
+// Add automated contract testing tools
