@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous governance
 // Fix security vulnerability in random number generation
 // Integrate Chainlink VRF for randomness
+// Refactor cross-chain communication layer
