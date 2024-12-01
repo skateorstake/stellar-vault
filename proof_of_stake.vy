@@ -5,3 +5,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor decentralized governance structure
 // Implement delegation pattern
+// Fix transaction replay issue
