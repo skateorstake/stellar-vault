@@ -2,3 +2,4 @@
 // Add multi-chain governance support
 // Improve staking logic for better rewards
 // Fix transaction replay issue
+// Fix governance proposal approval logic
