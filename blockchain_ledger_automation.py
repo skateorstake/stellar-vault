@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Fix errors in contract interaction with wallets
 // Integrate decentralized anonymous identity systems
+// Add decentralized contract upgradeability
