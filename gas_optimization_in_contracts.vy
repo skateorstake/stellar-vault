@@ -6,3 +6,4 @@
 // Improve staking and yield farming logic
 // Refactor reward pooling algorithm
 // Integrate automated market maker (AMM) logic
+// Improve staking pool reward management
