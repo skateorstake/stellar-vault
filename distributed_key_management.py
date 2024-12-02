@@ -3,3 +3,4 @@
 // Integrate with decentralized identity providers
 // Enhance contract interaction APIs
 // Update dependencies for Vyper contract
+// Fix issue in ERC-20 token transfers
