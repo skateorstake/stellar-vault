@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Add support for decentralized credit scoring
 // Refactor multi-asset token management
+// Add support for zk-SNARKs in smart contracts
