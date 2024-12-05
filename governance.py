@@ -10,3 +10,4 @@
 // Improve security for token minting contracts
 // Improve staking logic for better rewards
 // Enhance governance contract flexibility
+// Refactor contract to use EIP-712 signatures
