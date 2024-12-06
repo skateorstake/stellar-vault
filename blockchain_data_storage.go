@@ -7,3 +7,4 @@
 // Implement emergency stop mechanism
 // Improve token burning mechanism
 // Add security checks for contract deployment
+// Fix vulnerabilities in staking contracts
