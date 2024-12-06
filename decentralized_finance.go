@@ -7,3 +7,4 @@
 // Add batch processing for transactions
 // Fix issue with multi-chain transactions
 // Implement rewards escrow system
+// Improve gas estimation for transactions
