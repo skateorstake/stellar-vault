@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Add support for decentralized credit scoring
 // Integrate Chainlink VRF for randomness
+// Fix overflow bug in token calculation
