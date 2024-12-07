@@ -8,3 +8,4 @@
 // Enhance smart contract compatibility
 // Implement performance optimizations for DeFi
 // Improve token burning mechanism
+// Fix issue in token vesting logic
