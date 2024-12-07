@@ -5,3 +5,4 @@
 // Enhance smart contract extensibility
 // Optimize storage for off-chain data
 // Refactor oracle interaction logic
+// Integrate Chainlink VRF for randomness
