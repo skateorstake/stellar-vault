@@ -8,3 +8,4 @@
 // Update README with Go module examples
 // Add automated smart contract testing
 // Improve smart contract code modularity
+// Add support for zk-SNARKs in smart contracts
