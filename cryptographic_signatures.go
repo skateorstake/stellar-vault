@@ -5,3 +5,4 @@
 // Enhance gas fee management
 // Refactor governance proposal logic
 // Fix bug in random number generation
+// Add new feature: on-chain governance
