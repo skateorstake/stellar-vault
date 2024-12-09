@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Add native support for staking rewards
 // Fix contract reentrancy issues
+// Add support for ERC-1155 tokens
