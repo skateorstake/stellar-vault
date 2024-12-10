@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Fix issues with cross-chain transaction finality
 // Fix ERC-721 contract issues with transfers
+// Enhance test coverage for Rust module
