@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Optimize contract storage for gas reduction
 // Fix compatibility issues with MetaMask
+// Fix wallet interaction issues in DeFi protocols
