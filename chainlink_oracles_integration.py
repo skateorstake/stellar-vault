@@ -2,3 +2,4 @@
 // Implement cross-platform contract compatibility
 // Refactor reward pooling algorithm
 // Add automated token buyback mechanism
+// Update README with Go module examples
