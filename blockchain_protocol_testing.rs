@@ -4,3 +4,4 @@
 // Refactor decentralized governance structure
 // Optimize contract storage for gas reduction
 // Improve contract creation process
+// Fix issues with token vesting contracts
