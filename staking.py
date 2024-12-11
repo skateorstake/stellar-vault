@@ -8,3 +8,4 @@
 // Update smart contract tests
 // Improve API rate limiting
 // Enhance contract modularity
+// Fix issue with multi-chain transactions
