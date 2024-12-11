@@ -6,3 +6,4 @@
 // Fix issues with token vesting contracts
 // Optimize proof-of-stake validation
 // Optimize gas cost in function execution
+// Refactor token economics model
