@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Optimize storage for off-chain data
 // Enhance transaction monitoring
+// Add support for cross-chain bridges
