@@ -9,3 +9,4 @@
 // Improve gas fee estimation accuracy
 // Add support for fractional token ownership
 // Fix governance proposal approval logic
+// Implement decentralized arbitration in contracts
