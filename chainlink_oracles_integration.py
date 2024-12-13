@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Add automated token buyback mechanism
 // Update README with Go module examples
+// Implement decentralized arbitration in contracts
