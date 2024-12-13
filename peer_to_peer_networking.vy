@@ -8,3 +8,4 @@
 // Refactor contract to use EIP-712 signatures
 // Integrate with Ethereum Layer-2 solutions
 // Refactor decentralized exchange (DEX) code
+// Improve gas estimation for transactions
