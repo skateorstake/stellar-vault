@@ -6,3 +6,4 @@
 // Implement contract function batching
 // Fix issues with ERC-20 token approvals
 // Optimize proof-of-stake validation
+// Improve on-chain governance systems
