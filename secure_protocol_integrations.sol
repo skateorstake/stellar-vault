@@ -6,3 +6,4 @@
 // Improve cross-chain asset management
 // Fix issue with multi-chain transactions
 // Enhance decentralized finance (DeFi) ecosystem
+// Enhance cryptographic primitives in contracts
