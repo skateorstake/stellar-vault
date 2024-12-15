@@ -8,3 +8,4 @@
 // Update testing framework for Solidity
 // Implement on-chain identity verification
 // Optimize token withdrawal logic
+// Fix ERC-721 contract issues with transfers
