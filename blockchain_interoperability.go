@@ -7,3 +7,4 @@
 // Fix bug in random number generation
 // Add support for yield farming rewards
 // Refactor multi-signature wallet code
+// Fix issues with cross-chain transaction finality
