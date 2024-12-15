@@ -8,3 +8,4 @@
 // Fix vulnerabilities in staking contracts
 // Refactor contract to use EIP-712 signatures
 // Add support for decentralized file storage
+// Add multi-sig wallet functionality
