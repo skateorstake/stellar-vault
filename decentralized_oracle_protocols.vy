@@ -3,3 +3,4 @@
 // Refactor wallet interaction logic
 // Enhance contract interaction APIs
 // Enhance smart contract compatibility
+// Add security checks for contract deployment
