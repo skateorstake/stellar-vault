@@ -3,3 +3,4 @@
 // Fix issues with token transfer confirmations
 // Fix ERC-1155 contract interactions
 // Add support for delegation in governance
+// Add support for ERC-1155 tokens
