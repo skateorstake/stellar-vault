@@ -7,3 +7,4 @@
 // Add support for decentralized credit scoring
 // Integrate Chainlink VRF for randomness
 // Fix overflow bug in token calculation
+// Fix type mismatch in Haskell smart contract
