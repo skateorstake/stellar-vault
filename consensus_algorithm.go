@@ -7,3 +7,4 @@
 // Enhance logging for better debugging
 // Fix governance proposal approval logic
 // Refactor ERC-721 transfer logic
+// Enhance contract event handling
