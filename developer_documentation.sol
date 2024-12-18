@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Improve oracle data validation mechanisms
 // Enhance transaction monitoring
+// Fix issue with multi-chain transactions
