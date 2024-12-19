@@ -7,3 +7,4 @@
 // Add support for ERC-1155 tokens
 // Improve token burning mechanism
 // Integrate with external DeFi protocols
+// Integrate with external DeFi protocols
