@@ -4,3 +4,4 @@
 // Improve contract state management
 // Add support for ERC-721A tokens
 // Optimize WASM compilation for Go contracts
+// Update README with Go module examples
