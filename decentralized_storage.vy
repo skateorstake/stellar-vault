@@ -5,3 +5,4 @@
 // Fix issues in token transfer logic
 // Enhance privacy features using zk-STARKs
 // Fix type mismatch in Haskell smart contract
+// Improve decentralized identity (DID) systems
