@@ -6,3 +6,4 @@
 // Implement contract function batching
 // Refactor contract event emission
 // Optimize WASM compilation for Go contracts
+// Refactor decentralized exchange (DEX) code
