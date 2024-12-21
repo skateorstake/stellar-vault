@@ -6,3 +6,4 @@
 // Implement automated governance voting
 // Implement automated governance voting
 // Refactor multi-signature wallet code
+// Integrate Chainlink oracles
