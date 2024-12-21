@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Refactor storage layout for better efficiency
 // Optimize hashing algorithm
+// Add support for zk-SNARKs in smart contracts
