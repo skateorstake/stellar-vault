@@ -13,3 +13,4 @@
 // Optimize token minting flow
 // Code cleanup and documentation update
 // Refactor staking logic
+// Fix issue in token vesting logic
