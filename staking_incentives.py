@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Implement decentralized arbitration in contracts
 // Refactor ERC-721 transfer logic
+// Integrate Chainlink oracles for price data
