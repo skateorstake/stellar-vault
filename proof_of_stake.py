@@ -8,3 +8,4 @@
 // Improve gas estimation for transactions
 // Fix issues with ERC-20 token approvals
 // Refactor staking logic
+// Add batch processing for transactions
