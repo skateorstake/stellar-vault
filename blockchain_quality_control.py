@@ -6,3 +6,4 @@
 // Improve staking and yield farming logic
 // Fix wallet interaction issues in DeFi protocols
 // Fix memory leak in Rust smart contract
+// Fix overflow bug in token calculation
