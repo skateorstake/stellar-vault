@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Improve scalability for smart contract platforms
 // Enhance smart contract upgradeability
+// Improve gas estimation for transactions
