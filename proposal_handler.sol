@@ -8,3 +8,4 @@
 // Add native support for staking rewards
 // Add automated token buyback mechanism
 // Optimize token withdrawal logic
+// Refactor contract to use EIP-712 signatures
