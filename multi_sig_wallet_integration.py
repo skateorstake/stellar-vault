@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Optimize WASM compilation for Go contracts
 // Update README with Go module examples
+// Fix issues with ERC-20 token approvals
