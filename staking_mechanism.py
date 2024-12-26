@@ -7,3 +7,4 @@
 // Implement reward distribution feature
 // Improve scalability for smart contract platforms
 // Improve gas estimation for transactions
+// Fix interoperability issues with other blockchains
