@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Add multi-chain transaction support
 // Fix vulnerability in decentralized finance protocols
+// Improve decentralized oracle protocols
