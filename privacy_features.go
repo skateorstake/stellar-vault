@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Fix bug in random number generation
 // Improve on-chain governance systems
+// Integrate staking rewards automation
