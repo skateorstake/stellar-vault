@@ -2,3 +2,4 @@
 // Add security checks for contract deployment
 // Enhance transaction monitoring
 // Optimize decentralized oracle performance
+// Integrate Chainlink VRF for randomness
