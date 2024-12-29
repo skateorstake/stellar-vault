@@ -7,3 +7,4 @@
 // Enhance decentralized autonomous organizations
 // Integrate with decentralized prediction markets
 // Add unit tests for staking module
+// Add native support for staking rewards
