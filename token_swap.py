@@ -10,3 +10,4 @@
 // Refactor decentralized governance structure
 // Integrate decentralized prediction models
 // Fix issue in ERC-20 token transfers
+// Improve API rate limiting
