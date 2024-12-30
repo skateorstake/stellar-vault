@@ -2,3 +2,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix issues with token vesting contracts
 // Refactor Ethereum gas price management
+// Optimize Oracle-based data fetching
