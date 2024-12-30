@@ -8,3 +8,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Optimize token minting flow
 // Optimize decentralized voting mechanisms
+// Refactor staking logic
