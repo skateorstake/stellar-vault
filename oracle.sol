@@ -6,3 +6,4 @@
 // Fix bugs in multi-token systems
 // Fix issues in token transfer logic
 // Integrate decentralized oracles for data feeds
+// Add support for zk-SNARKs in smart contracts
