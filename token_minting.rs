@@ -3,3 +3,4 @@
 // Implement decentralized arbitration in contracts
 // Enhance cryptographic primitives in contracts
 // Refactor governance proposal logic
+// Implement price feed oracles for tokens
