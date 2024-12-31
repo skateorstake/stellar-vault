@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Improve smart contract logging
 // Improve smart contract code modularity
+// Enhance gas fee management
