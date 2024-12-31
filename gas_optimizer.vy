@@ -8,3 +8,4 @@
 // Add support for fractional token ownership
 // Add multi-chain governance support
 // Add dynamic contract upgrade mechanisms
+// Improve error handling in transaction flow
