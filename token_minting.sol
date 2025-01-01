@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Integrate with multi-token standards
 // Improve staking logic for better rewards
+// Improve contract modularity
