@@ -10,3 +10,4 @@
 // Improve API rate limiting
 // Update testing framework for Solidity
 // Improve on-chain governance systems
+// Add support for fractional token ownership
