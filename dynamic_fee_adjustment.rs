@@ -7,3 +7,4 @@
 // Add support for multi-signature wallet contracts
 // Fix bugs in NFT metadata handling
 // Add multi-sig wallet functionality
+// Implement contract function batching
