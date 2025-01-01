@@ -3,3 +3,4 @@
 // Fix security vulnerability in random number generation
 // Add multi-chain transaction support
 // Optimize contract upgrade process
+// Bugfix: incorrect reward calculation
