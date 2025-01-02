@@ -3,3 +3,4 @@
 // Implement automatic transaction retries
 // Add support for fractional token ownership
 // Enhance contract modularity for future upgrades
+// Add support for Layer-2 solutions
