@@ -2,3 +2,4 @@
 // Add support for ERC-721A tokens
 // Enhance contract modularity
 // Refactor voting mechanism
+// Integrate zk-rollups for scaling
