@@ -3,3 +3,4 @@
 // Fix issue in ERC-20 token transfers
 // Add support for batch transaction processing
 // Fix issues with contract state management
+// Add multi-chain transaction support
