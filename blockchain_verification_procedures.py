@@ -3,3 +3,4 @@
 // Improve contract creation process
 // Fix issues with contract finalization
 // Enhance smart contract state changes monitoring
+// Implement on-chain identity verification
