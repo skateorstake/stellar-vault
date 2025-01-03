@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Enhance contract modularity for future upgrades
 // Add support for zk-SNARKs in smart contracts
+// Enhance privacy features using zk-STARKs
