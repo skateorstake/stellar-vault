@@ -8,3 +8,4 @@
 // Optimize decentralized voting mechanisms
 // Fix issues in token transfer logic
 // Fix governance proposal approval logic
+// Integrate Chainlink oracles for price data
