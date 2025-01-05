@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Update testing framework for Solidity
 // Integrate Chainlink oracles
+// Fix deserialization bug in Haskell code
