@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Integrate IPFS for storage
 // Improve contract auditing tools
+// Enhance gas fee management
