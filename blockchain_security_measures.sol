@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Implement on-chain identity verification
 // Integrate zk-rollups for scaling
+// Integrate with multi-token standards
