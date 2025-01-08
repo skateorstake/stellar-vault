@@ -8,3 +8,4 @@
 // Integrate decentralized prediction models
 // Fix interoperability issues with other blockchains
 // Fix interoperability issues with other blockchains
+// Implement reward distribution feature
