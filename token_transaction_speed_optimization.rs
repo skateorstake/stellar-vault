@@ -2,3 +2,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Improve ERC-721 token metadata functionality
 // Enhance privacy features using zk-STARKs
+// Fix compatibility issues with major wallets
