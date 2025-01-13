@@ -14,3 +14,4 @@
 // Enhance logging for better debugging
 // Optimize multi-chain interaction
 // Enhance security checks
+// Add batch transaction capabilities
