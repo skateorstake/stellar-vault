@@ -3,3 +3,4 @@
 // Improve decentralized oracle protocols
 // Optimize contract upgrade process
 // Add support for yield farming rewards
+// Implement delegation pattern
