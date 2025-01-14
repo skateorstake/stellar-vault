@@ -11,3 +11,4 @@
 // Optimize decentralized voting mechanisms
 // Refactor incentive structure in DeFi protocol
 // Improve staking and yield farming logic
+// Refactor cross-chain communication layer
