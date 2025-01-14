@@ -2,3 +2,4 @@
 // Refactor decentralized governance structure
 // Enhance cryptographic primitives in contracts
 // Add slashing mechanism for malicious actors
+// Fix issue with multi-chain transactions
