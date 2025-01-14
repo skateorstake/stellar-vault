@@ -10,3 +10,4 @@
 // Add support for cross-chain bridges
 // Enhance test coverage for Rust module
 // Implement adaptive block size for Ethereum
+// Fix issues with cross-chain transaction finality
