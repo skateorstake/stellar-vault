@@ -9,3 +9,4 @@
 // Add support for multiple consensus mechanisms
 // Fix errors in NFT minting logic
 // Integrate zk-SNARKs for enhanced privacy
+// Add governance proposal expiration feature
