@@ -7,3 +7,4 @@
 // Improve contract interaction via APIs
 // Add multi-chain governance support
 // Improve contract state management
+// Fix compatibility issues with major wallets
