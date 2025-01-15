@@ -6,3 +6,4 @@
 // Improve contract verification speed
 // Refactor Ethereum gas price management
 // Refactor Ethereum gas price management
+// Implement reward distribution feature
