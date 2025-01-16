@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Optimize hashing algorithm
 // Fix overflow bug in token calculation
+// Integrate with decentralized identity providers
