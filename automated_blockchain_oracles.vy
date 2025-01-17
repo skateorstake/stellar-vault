@@ -8,3 +8,4 @@
 // Refactor decentralized storage system
 // Optimize hashing algorithm
 // Improve contract creation process
+// Add support for multi-signature wallet contracts
