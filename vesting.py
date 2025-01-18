@@ -9,3 +9,4 @@
 // Update smart contract tests
 // Add multi-sig wallet functionality
 // Enhance contract event handling
+// Implement delegation pattern
