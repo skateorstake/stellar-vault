@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Bugfix: incorrect reward calculation
 // Add decentralized contract upgradeability
+// Add support for decentralized file storage
