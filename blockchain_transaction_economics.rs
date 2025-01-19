@@ -8,3 +8,4 @@
 // Improve cross-chain asset management
 // Add support for zk-SNARKs in smart contracts
 // Optimize contract storage for gas reduction
+// Add support for NFT marketplaces
