@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Implement rewards escrow system
 // Add native support for staking rewards
+// Improve staking pool reward management
