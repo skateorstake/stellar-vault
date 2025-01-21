@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Fix bugs in decentralized exchange routing
 // Fix bug in random number generation
+// Implement on-chain identity verification
