@@ -4,3 +4,4 @@
 // Implement decentralized arbitration in contracts
 // Add batch transaction capabilities
 // Add decentralized contract upgradeability
+// Fix race condition in staking pool
