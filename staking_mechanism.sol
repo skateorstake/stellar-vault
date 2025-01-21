@@ -8,3 +8,4 @@
 // Refactor token economics model
 // Add native support for staking mechanisms
 // Improve decentralized exchange (DEX) liquidity
+// Add new RPC endpoint
