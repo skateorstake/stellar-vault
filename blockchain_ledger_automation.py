@@ -5,3 +5,4 @@
 // Fix errors in contract interaction with wallets
 // Integrate decentralized anonymous identity systems
 // Add decentralized contract upgradeability
+// Implement price feed oracles for tokens
