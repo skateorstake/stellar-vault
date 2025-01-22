@@ -5,3 +5,4 @@
 // Enhance security checks
 // Improve decentralized exchange (DEX) liquidity
 // Add support for ERC-1155 tokens
+// Enhance cryptographic primitives in contracts
