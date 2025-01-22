@@ -6,3 +6,4 @@
 // Fix vulnerabilities in staking contracts
 // Enhance contract interaction APIs
 // Implement adaptive block size for Ethereum
+// Implement liquidity pool staking mechanism
