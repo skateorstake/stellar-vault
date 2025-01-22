@@ -3,3 +3,4 @@
 // Integrate flash loan functionality
 // Implement rewards escrow system
 // Implement automatic transaction retries
+// Integrate Chainlink oracles
