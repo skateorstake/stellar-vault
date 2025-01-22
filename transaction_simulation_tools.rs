@@ -5,3 +5,4 @@
 // Improve contract auditing tools
 // Improve token minting flow efficiency
 // Refactor decentralized governance structure
+// Improve staking logic for better rewards
