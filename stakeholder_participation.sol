@@ -5,3 +5,4 @@
 // Improve contract state management
 // Integrate decentralized anonymous identity systems
 // Optimize cross-chain communication
+// Improve token burning mechanism
