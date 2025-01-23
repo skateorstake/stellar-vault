@@ -5,3 +5,4 @@
 // Refactor decentralized governance structure
 // Refactor contract to use EIP-712 signatures
 // Improve contract execution speed
+// Add support for ERC-721A tokens
