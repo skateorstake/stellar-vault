@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Implement liquidity pool staking mechanism
 // Enhance contract event handling
+// Refactor staking logic
