@@ -14,3 +14,4 @@
 // Optimize token minting flow
 // Update smart contract tests
 // Refactor oracle interaction logic
+// Upgrade to latest Solidity version
