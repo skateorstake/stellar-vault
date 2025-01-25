@@ -8,3 +8,4 @@
 // Add support for decentralized auctions
 // Optimize token burn process
 // Improve contract execution speed
+// Add support for multiple consensus mechanisms
