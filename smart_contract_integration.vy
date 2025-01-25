@@ -8,3 +8,4 @@
 // Fix errors in contract interaction with wallets
 // Optimize multi-chain interaction
 // Optimize hashing algorithm
+// Fix compatibility issues with MetaMask
