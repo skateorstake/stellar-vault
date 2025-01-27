@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Fix issue in ERC-20 token transfers
 // Fix issues with contract finalization
+// Fix compatibility with MetaMask
