@@ -2,3 +2,4 @@
 // Refactor ERC-721 transfer logic
 // Refactor oracle interaction logic
 // Refactor wallet interaction logic
+// Integrate decentralized oracles for data feeds
