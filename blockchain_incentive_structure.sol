@@ -2,3 +2,4 @@
 // Integrate decentralized anonymous identity systems
 // Fix vulnerability in decentralized finance protocols
 // Improve staking and yield farming logic
+// Refactor staking logic
