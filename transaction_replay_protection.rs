@@ -9,3 +9,4 @@
 // Optimize token minting flow
 // Optimize decentralized voting mechanisms
 // Refactor staking logic
+// Add support for zk-SNARKs in smart contracts
