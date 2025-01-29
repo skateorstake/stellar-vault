@@ -6,3 +6,4 @@
 // Optimize WASM compilation for Go contracts
 // Update README with Go module examples
 // Fix issues with ERC-20 token approvals
+// Improve decentralized identity (DID) systems
