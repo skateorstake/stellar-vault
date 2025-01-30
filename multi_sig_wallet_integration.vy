@@ -8,3 +8,4 @@
 // Refactor storage layout for better efficiency
 // Improve contract auditing tools
 // Add native support for staking mechanisms
+// Fix compatibility issues with major wallets
