@@ -3,3 +3,4 @@
 // Fix token transfer approval issues
 // Optimize contract upgrade process
 // Enhance contract upgrade mechanism
+// Fix ERC-721 contract issues with transfers
