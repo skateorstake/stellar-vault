@@ -9,3 +9,4 @@
 // Add support for decentralized marketplaces
 // Fix type mismatch in Haskell smart contract
 // Add multi-chain transaction support
+// Refactor decentralized governance structure
