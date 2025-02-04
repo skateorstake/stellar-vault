@@ -12,3 +12,4 @@
 // Optimize token minting flow
 // Optimize cross-chain communication
 // Update testing framework for Solidity
+// Integrate privacy-enhancing smart contracts
