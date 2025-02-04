@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles
 // Add decentralized contract upgradeability
 // Add native support for staking rewards
+// Fix ERC-721 contract issues with transfers
