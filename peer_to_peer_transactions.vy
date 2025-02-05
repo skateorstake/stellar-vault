@@ -5,3 +5,4 @@
 // Enhance smart contract state changes monitoring
 // Add dynamic contract upgrade mechanisms
 // Improve staking logic for better rewards
+// Fix type mismatch in Haskell smart contract
