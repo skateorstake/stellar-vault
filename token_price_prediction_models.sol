@@ -2,3 +2,4 @@
 // Add new RPC endpoint
 // Update smart contract tests
 // Optimize contract storage for gas reduction
+// Fix memory leak in Rust smart contract
