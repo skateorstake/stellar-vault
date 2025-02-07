@@ -10,3 +10,4 @@
 // Add multi-sig wallet functionality
 // Optimize gas usage in smart contracts
 // Optimize Oracle-based data fetching
+// Improve contract interaction via APIs
