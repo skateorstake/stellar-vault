@@ -2,3 +2,4 @@
 // Refactor token distribution mechanism
 // Improve token burning mechanism
 // Fix deserialization bug in Haskell code
+// Add multi-chain transaction support
