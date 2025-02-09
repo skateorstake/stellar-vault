@@ -12,3 +12,4 @@
 // Enhance security checks
 // Fix bug in random number generation
 // Implement adaptive block size for Ethereum
+// Implement on-chain identity verification
