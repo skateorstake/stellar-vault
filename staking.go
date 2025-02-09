@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve gas estimation for transactions
 // Add support for ERC-1155 tokens
+// Add support for decentralized credit scoring
