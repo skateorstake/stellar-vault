@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Integrate privacy-enhancing smart contracts
 // Enhance governance contract flexibility
+// Implement delegation pattern
