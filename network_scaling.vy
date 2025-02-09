@@ -3,3 +3,4 @@
 // Implement contract function batching
 // Fix issue with multi-chain transactions
 // Implement reward distribution feature
+// Implement on-chain identity verification
