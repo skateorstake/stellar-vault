@@ -9,3 +9,4 @@
 // Fix ERC-1155 contract interactions
 // Fix issues with token transfer confirmations
 // Optimize state channels for faster transactions
+// Refactor contract state machine design
