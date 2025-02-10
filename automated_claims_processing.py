@@ -6,3 +6,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate privacy-enhancing smart contracts
 // Refactor storage layout for better efficiency
+// Add support for batch transaction processing
