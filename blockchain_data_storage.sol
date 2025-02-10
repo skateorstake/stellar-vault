@@ -8,3 +8,4 @@
 // Optimize proof-of-stake validation
 // Fix issue in ERC-20 token transfers
 // Optimize oracle data fetching mechanism
+// Optimize gas usage for contract deployment
