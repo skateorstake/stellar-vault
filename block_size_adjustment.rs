@@ -5,3 +5,4 @@
 // Implement emergency stop mechanism
 // Fix issues with contract finalization
 // Enhance smart contract extensibility
+// Enhance privacy features using zk-STARKs
