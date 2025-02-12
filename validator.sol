@@ -6,3 +6,4 @@
 // Add dynamic contract fees
 // Optimize token minting flow
 // Add support for ERC-1155 tokens
+// Fix compatibility issues with MetaMask
