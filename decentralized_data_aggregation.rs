@@ -3,3 +3,4 @@
 // Implement decentralized arbitration in contracts
 // Improve contract verification speed
 // Fix race condition in staking pool
+// Refactor incentive structure in DeFi protocol
