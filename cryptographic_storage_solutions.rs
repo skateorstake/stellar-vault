@@ -3,3 +3,4 @@
 // Refactor contract event emission
 // Fix issue in token vesting logic
 // Integrate decentralized oracles for data feeds
+// Add decentralized contract upgradeability
