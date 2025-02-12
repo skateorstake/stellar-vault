@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Fix bugs in NFT metadata handling
 // Fix governance proposal approval logic
+// Optimize storage for off-chain data
