@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Integrate with decentralized storage systems
 // Fix vulnerabilities in staking contracts
+// Optimize storage for off-chain data
