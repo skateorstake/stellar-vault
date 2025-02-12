@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Optimize multi-chain interaction
 // Fix memory optimization issues in contracts
+// Add fallback mechanism in Solidity contract
